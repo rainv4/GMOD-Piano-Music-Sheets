@@ -1,0 +1,24 @@
+[4t] 8 [qo] [8O] [$P] * [Qs] [*S] :
+[%D] (gWS(s[^S] q [Es] [qS] :
+[$D] *gQS*s[%P] ( [WO] ( :
+[@O] ^ [(I] ^ {iI[!i]} % * % :
+[$D] * [QS] [*s] [%P] ( [WO] ( :
+@ [^P] [(s] [^S] {[4s]Ss}[8P] [qO] [8o] :
+[4ts] 8 [qoh] [8OH] [$PJ] * [Qsl] [*SL] :
+[%DZ] ([gc]W[SL]([sl][^SL] q [Esl] [qSL] :
+[$DZ] *[gc]Q[SL]*[sl][%PJ] ( [WOH] ( :
+[@OH] ^ [(IG] ^{[ig][IG][!ig]} % * % :
+[$DZ] * [QSL] [*sl] [%PJ] ( [WOH] ( :
+$ [*DZ] [Qgc] [*DZ] [%SL] ( [Wsl] ( :
+[i^P] [qg] <[EP]gJ> q [$E] * [QY] [*i] :
+[%I] (OWi(Y[^i] q [EY] [qi] :
+[$I] *OQi*Y[%T] ( [Wt] ( [@E] ^ ( ^ 4 8 q W :
+
+[^DJ] [qgJ]l[ESJ] [qgJ]l[s$J] [g*J]l[QSJ]l[g*J]l::
+[%DJ] [g(J]l[WSJ] [g(J]l[s^J] [qgJ]l[ESJ]l[qgJ]l::
+[$DJ] [g*J]l[QSJ] [g*J]l[s%J] [g(J]l[WSJ]l[g(J]l::
+[@DJ] [g^J]l[(SJ] [g^J]l[4sJ] [8gJ]l[qSJ]l[8gJ]l::
+[EDJ] [igJ]l[PSJ] [igJ]l[sQJ] [gTJ]l[ISJ]l[gTJ]l::
+[WDJ] [gYJ]l[OSJ] [gYJ]l[sEJ] [igJ]l[PSJ]l[igJ]l::
+[QDJ] [gTJ]l[ISJ] [gTJ]l[sWJ] [gYJ]l[OSJ]l[gYJ]l::
+[(DJ] [gEJ]l[YSJ] [gEJ]l[qsJ] t [isg]-[@E] ^ ( ^ 4 8 q W

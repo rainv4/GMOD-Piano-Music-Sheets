@@ -1,0 +1,89 @@
+[tosYD] d [tosYD] s [tosYD] d [tosYD] s 
+[tosYD] d [tosYD] s [tosYD] d [tosYD] s 
+[tsYOD] d [tsYOD] s [tsYOD] d [tsYOD] s 
+[tsYOD] d [tsYOD] s [tsYOD] d [tsYOD] s 1 
+[P1og] [1d] [Ptog] w [8s] [P8og] [1d] [Ptog] w [8s] 
+[P1og] [1d] [Ptog] w [8s] [P8og] [1d] [Ptog] w [8s] 
+[1sOD] [1d] [tsOD] W [8s] [8sOD] [1d] [tsOD] W [8s] 
+[1sOD] [1d] [tsOD] W [8s] [8sOD] [1d] [tsOD] W [8s] 
+
+[8D] d D [ts] [yD] [Yd] D O 
+[8D] [Yd] [yD] [ts] D d D [Es] 
+[8ED] [YD] [ys] [Ed] D [ts] 
+[8D] d D s D [wd] [wD] [Es]  
+[E8ti] w 1 m [wB] m [tc] v l [wc] 1 m [wB] m [tc] v 
+[8l] [wc] 1 m [wB] m [Ec] v [El] c t m [YB] m [yc] v
+[8Y] W 1  [WB] [8m] [tZ] [8c] [8l] [WZ] 1 [WB] [8m] [tZ] [8c] 
+[8l] [WZ] 1 [WB] [8m] [tZ] [8c] [8l] [WZ] 1 [WB] [8m] [tZ] [8c] 
+
+[8oP] t s t [tos] t s t [toP] t s t [tos] t s t 
+[toP] t s t [tos] t s t [toP] t s t [to] t t t 
+[8oP] t s t [tos] t s t [toP] t s t [tos] t s t 
+[tos] t P t [tos] t d t [toD] t-t [toD] t g t 
+[sJ] s l s [sl] s l s [sJ] s l s [sl] s l s 
+[1sJ] [4s] [^l] [4s] [8sl] [^s] [ql] [8s] [1sJ] [4s] [^l] [4s] [8sh] [^s] [qs] [8s] 
+[sJ] [@s] [%l] [@s] [^sl] [%s] [(l] [^s] [sJ] [@s] [%l] [@s] [^sl] [%s] [(l] [^s] 
+[EP]-[ts]-[ts]-[Ptos] -
+
+[1oYPD] [1ig] [wtPDJ] [PD8oh] [Pwtig] [8YD] 1 
+[ts] % [(WPDJ] [%PDoh] [(WPig] [%YD] D D
+[YD] [4yd] [O8qyd] [ts] [Ots] [EP] [O8qts] [oh] [Pig] 
+[qE] ^ [^t] [^E] t [Eqo] [^t] 
+[1oYPD] [1ig] [wtPDJ] [PD8oh] [Pwtig] [8YD] 1 
+[ts] ^ [qEPDJ] [^PDoh] [EPqig] [^YD] D D
+[tis] [EP] [qetis] [6EP] [6tis] [oh] [qetis] 
+[YD] [%yd] [(WOyd] [ts] [Ots] [EP] [qiEP] ^ [^ts]
+
+1-1-[wt] 1-1 1-[wt]
+1-1-[wt] 1-1 1-[wt] 
+1-1-[Wt] 1-1 1-[Wt] 
+1-1-[Wt] 1-1 1-[Wt] 
+[oYD] [toYD] [8oYD] [1ig] [Ytos]
+[oYD] [1yd] [toYD] [8ig] [D8oh] [1ig] [Ytos] 
+[sYOD] [tsYOD] [8sYOD] [1ig] [YOts]
+[sYOD] [1yd] [tsYOD] [8ig] [OD8sh] [1ig] [YOts]
+
+[18EY] [EY] [EYsl] [idz] [tEDZ] [8sl]
+[8EYJB] y [EY] [igc] [Eo] i [tEDZ] [8dz] 
+[18WY] [8DZ] [WYsl] [WY] i [Wt]
+[8WY] y [WY] i [Wo] i [Wt]
+[8wY] [ts] d D Y [tH] 
+[8wY] D d [ts] Y y Y [tP] 
+[8WYP] [ys] [YD] [Ys] [yP] Y [ts] 
+[8WY] y Y t Y [yo] [Yo] [tP] 
+
+[P8sg] w [1l] J [wh] [8J] [tg] [8h] [8s] [wg] [1l] J [wh] [8J] [tg] [8h] 
+[8s] [wg] [1l] J [wh] [8J] [Ptg] [8h] [8P] [wg] [1sl] J [Dwh] [8J] [tdg] [8h] 
+[8D] W [1Z] z [WJ] [8l] [tsH] [8J] [8D] [WH] [1Z] z [WJ] [8l] [tH] [8J] 
+[8D] [WH] [1Z] z [WJ] [8l] [tH] [8J] D H Z V -
+[toshDZ] [gc] [JZB] - [Zhv] - [Jgc] [DZ] 
+[WYO] [Dsl] [JZB] - [Zhv] - [Jgc] [DZ] 
+[qDHZ] [dz] - [Htdz] [sl] - [YHsl] [PJ] - [OHsl] [hv] [Jgc] 
+^ - q s [EP] s [yh] s 
+
+[8hDZ] [Egc] [YJZB] [Zohv] [PJgc] [YDZ] 
+^ q [EDsl] [YJZB] [Zohv] [PJgc] [YDZ] 
+[6sgl] [6PJ] [esgl] [ePJ] [isgl] [ihv] [psgl] i t q 
+[%DHZ] [(dz] [WHdz] [(sl] W E [Htsl] [PJ] - [g^EPJ] [sl] 
+[1oYPD] [1yd] [wtoYPD] [8PJ] [P8ig] [Ywtos] [8YD]
+[Dosh] [%YD]  [Disg] [(W] [YD] [Yts] [(WDosh] [%YD]  
+[Oisg] [4YD] [Oisg] [8q] [YD] [Y4ts] [8qsYOD] [4YD] 
+[Ptis]  ^ [qEYD] [^yd] [^ts] [EP] ^ [EPqtis] ^ ^ 
+
+[1oYPD] [1yd] [wtoYPD] [8PJ] [P8ig] [Ywtos] [8YD] 
+[Dosh] [^YD] [^Disg] [qE] [YD] [^ts] [EDqosh] [^YD]
+[ipsg] [6YD] [6ipsg] [qe] [YD] [6ts] [qepsYD] [6YD]
+[YOts] [(WYD] [%yd] [%ts] [EP] [EPqtis] ^ ^ 
+[15(]-q [EPJ] [8sl] 8 [Dwshl] 8 8 8 q 8 ( 8 
+@-8 % [EPJ] % [%sl] % [whDJZ] % % % q % ( % 
+[Z4hlv] [8gc] [Ztglc] [qDZ] [lYDHZ] [tdz] [DHsl] [Yhv] [Jtgc] 
+4 ^ 8 q ^ [qs] E [tP] q [Es] t [ih] t [Es] q 
+
+[(Z15lvm]-q E [8Z] [wzvB] [qJB] [v(JZB] 
+4- 8 ^ E ^ ^ ^ w ^ ^ ^ q ^ [(gc] ^ 
+[Zhlv] 6 [8hv] [Zeglc] [egc] [ijlDZ] [tdz] [osgjl] p i t q 
+[Zhlv] % [8gc] [WZhlv] [(gc] [Zthlv] [WHV] [tlDHZ] ^ [qhv] E 
+[18] d [osD] s [osD] d [osD] s 
+[sOD] d [sOD] s [sOD] d [sOD] s 
+[Pog] d [Pog] s [Pog] d [Pog] s 
+[sOD] d [sOD] s [sOD] d [sOD] s

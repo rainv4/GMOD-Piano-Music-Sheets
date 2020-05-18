@@ -1,0 +1,24 @@
+8 0 [ru] w [ru] w 0 w [qe] w 9 w 
+8 0 [ru] w [ru] w 0 w [qe] w 9 w 
+[4s] 8 [qed] [8f] [5d] [9a] [wrp] [9a] [8s] 0 [ruo] w [ru] w [ru] w 
+[4s] 8 [qed] [8f] [5d] [9o] [wrp] [9a] [8s] 0 [ruh] w [ruf] w [ru] w 
+[4s] 8 [qed] [8f] [5d] [9a] [wrp] [9a] [8s] 0 [ruo] w [ru] w [ru] w 
+[4s] 8 [qed] [8f] [5d] 9 [wrs] [9a] [8s] 0 [ru] w [ru] w [ru] w 
+8 0 [ru] w [ru] w 0 w [qe] w 9 w 
+8 0 [ru] w [ru] w 0 w [qe] w 9 w 
+[8w] q E W [%(] W t y [qi] 9 [579] 
+[4tis] 8 [qed] [8f] [5rid] [9a] [wrp] [9a] [5rus] 0 [ruo] w [ru] w [ru] w 
+[4tis] 8 [qed] [8f] [5rid] [9o] [wrp] [9a] [5rus] 0 [ruh] w [ruf] w [ru] w 
+[4tis] 8 [qed] [8f] [5rid] [9a] [wrp] [9a] [5rus] 0 [ruo] w [ru] w [ru] w 
+[4tif] 8 [qed] [8s] [5ria] 9 [wra] [9s] [5rus] 0 [ru] w [ru] w [ru] w 
+[5j] h [0j] h [ruf] w [ruf] d [wf] h [rus] w [5s] [0p] o [ru] [wy] [6t] 0 [0e] 8 
+[0e] 8 [0e] 8 [5j] h [0j] h [ruf] w [ruf] d [wf] h [rus] w [5s] p 0 o [ru] o w p 
+[rus] w [ru] w 5 0 [ru] w [ru] w [ruo] [wp] [4s] 8 [qe] [8d] 
+[5d] 9 [wrh] 9 [8h] 0 [ruf] [wd] f [ru] w [ru] [wh] [4h] [8j] s [qe] 8 
+[%D] [0d] [rus] [0d] s 6 8 [0e] 8 [0e] 8 [0e] 8 [4s] 8 [qe] [8d] f 
+[5d] 9 [wrs] 9 [6f] [0h] [eth] [0f] [ets] 0 [et] [0p] [4p] 8 [qe] [8a] s 
+[5a] 9 [wr] [9s] [8s] 0 [ru] w [ru] w [ru] w [4tis] 8 [qed] [8f] 
+[5rid] [9a] [wrp] [9a] [5rus] 0 [ruo] w [ru] w [ru] w [4tis] 8 [qed] [8f] 
+[5rid] [9o] [wrp] [9a] [5rus] 0 [ruh] w [ruf] w [ru] w [4tis] 8 [qed] [8f] 
+[5rid] [9a] [wrp] [9a] [5rus] 0 [ruo] w [ru] w [ru] w [4tis] 8 [qed] [8f] 
+[5rid] 9 [wrs] [9a] [5rus] 0 [ru] y [upd] h l

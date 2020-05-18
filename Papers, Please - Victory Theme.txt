@@ -1,0 +1,68 @@
+[?5] [wr] [wr] [wr] [?5] [wr] [wr] [wr] 
+[?$] [Qe] [Qe] [Qe] [?$] [Qe] [Qe] [Qe] 
+[?6] [et] [et] [et] [?6] [et] [et] [et] 
+[??3] [?0w] [0w] ^ [$0w] [??3] [30w] ? [2?$^] [2$] [?30e] 
+[?^5w] [wr] [wr] [wr] [?5w] [wr] [wr] [wr] 
+[?$e] [Qe] [Qey] [Qey] [?$e] [Qe] [Qey] [Qey] 
+[?6t] [et] [etu] [etu] [?6t] [et] [etu] [etu] 
+[??3u] [?0wu] [0wr] ^ [$0wu] [??3t] [30wt] ? [?$^2e] [2$] [?30et] 
+[?^6e] [et] [et] [et] [?6] [et] [?3] [0w] 
+[?5] [wr] [wr] [wr] [?5] [wr] [?3] [0w] 
+[?2] [9w] [9w] [9w] [?2] [9w] [?3] [0w] 
+[??4] [?qe] [qe] ^ [$qe] [??4] [qe] ? [25?^] [2$] [?wr] 
+[?^6t] [et] [et] [et] [?6t] [et] t [?3] [0wt] 
+[?5t] [wr] [wrt] [wrt] [?5t] [wr] t [?3] [0wt] 
+[?2t] [9w] [9wt] [9wt] [?2t] [9w] t [?3] [0wt] 
+[??4t] [?qe] [qet] ^ [$qet] [??4t] [qe] [?t] [25?^] [2$] [?wrt] t 
+[6?^] [et] [?60] [et] [5??^] [?wr] [^wr] [2wr] ^ 
+[5?^] [$wr] [$wr] [$wr] [?25] [$wr] [$wr] [$wr] 
+[2?$] [$Qe] [$Qe] [$Qe] [2?$] [$Qe] [$Qe] [$Qe] 
+[?26] [$et] [$et] [$et] [?26] [$et] [$et] [$et] 
+[?23] [$0w] [$0w] [$0w] [?23] [$30w] $ [?$2j] [$30e] $ 
+[?^d] a [?o] o d 
+[?a] [?p] 
+[?s] p [?u] p 
+[??a] ? ^ $ [?o] [30w] ? [?$^2a] [2$] [?30es] 
+[?^5d] [$wr] [$wr] a [$wr] [?25o] [$wr] [$wr] o d [$wr] 
+[?$2a] [$Qe] [$Qe] [$Qe] [?$2p] [$Qe] [$Qe] [$Qe] 
+[?26s] [$et] [$et] p [$et] [?26u] [$et] [$et] p [$et] 
+[?23a] [$0w] [$0w] [$0w] [?23o] [$30w] $ [?$2aj] [$30es] $ 
+[6?^] [et] [?60] [et] [5??^] [?wr] [^wr] [2wr] ^ 
+[?^6t] [$eth] [$et] j [$eth] [?26tj] [$et] [$t] [?3f] [$0wt] d 
+[?25tj] [$wrtj] [$wrt] [$wrth] [?25t] [$wrt] [$t] [?3] [$0wt] 
+[?2t] [$9wtd] [$9wt] f [$9wtg] [?2t] [$9wt] [$t] [?3d] [$0wt] 
+[?24ts] [$qet] [$qet] [$qeta] [?24t] d [$qetk] [$t] [?25j] [$wrt] $ 
+[?^6t] [$eth] [$et] j [$eth] [?26tj] [$et] [$t] [?3f] [$0wt] d 
+[?25tj] [$wrtj] [$wrt] [$wrth] [?25t] [$wrt] [$t] [?3] [$0wt] 
+[?2t] [$9wtd] [$9wt] f [$9wtg] [?2t] [$9wt] [$t] [?3d] [$0wt] 
+[?24ts] [$qet] [$qet] [$qeta] [?24t] d [$qetk] [$t] [?25j] [$wrt] $ 
+[6?^] [et] [?60] [et] [5??^] [?wr] [^wr] [2wr] ^ 
+[?^5d] [$wr] [$wr] a [$wr] [?25o] [$wr] [$wr] o d [$wr] 
+[?$2a] [$Qe] [$Qe] [$Qe] [?$2p] [$Qe] [$Qe] [$Qe] 
+[?26s] [$et] [$et] p [$et] [?26u] [$et] [$et] p [$et] 
+[?23a] [$0w] [$0w] [$0w] [?23o] [$30w] $ [?$2aj] [$30ea] $ 
+[?^5d] [$wr] [$wr] [$wrd] [?25] [$wr] [$wr] d [$wra] 
+[?$2p] [$Qe] [$Qe] [$Qe] [2?$] [$Qe] [$Qe] p [$Qea] 
+[?26s] [$et] [$et] [$ets] [?26] [$et] [$et] s [$eta] 
+[?23u] [$0w] [$0w] u s [$0wa] [?23u] [$30w] $ [?$2aj] [$30es] $ 
+[6?^] [et] [?60] [et] [5??^] [?wr] [^wr] [2wr] ^ 
+[5??^] [wr] [wr] [?wr] [wr] [wr] [wr] 
+[?$] [Qe] [Qe] [?Qe] e [Qr] [Qe] 
+[?6] [et] [et] [?et] [et] [et] [et] 
+[??3] [?0w] ^ [$0w] [??0w] [0w] [?0e] [2^] [2$] [?0w] 
+[??^5w] [wr] w 2 [wr] [??wr] [wr] [wr] 2 [wr] 
+[??$Q] [Qe] Q 2 [Qe] [??Qe] e [Qr] 2 [Qe] 
+[??6e] [et] e 2 [et] [??et] [et] [et] 2 [et] 
+[??30] [0w] 0 2 [0w] [??0w] [0we] [0e] 2 [0we] 
+[??^6t] [eth] [et] [2j] [eth] [??6tj] [et] t [?23f] [0wt] d 
+[??5tj] [wrj] [wrt] 2 [wrth] [??5t] [wr] t [?23] [0wt] 
+[??2t] [9wd] [9wt] [2f] [9wtg] [??2t] [9w] t [?23d] [0wt] 
+[??4ts] [qe] [qet] 2 [qeta] [??4t] d [qek] t [?25j] [wrt] t 
+[??6t] [eth] [et] [2j] [eth] [??6tj] [et] t [?23f] [0wt] d 
+[??5tj] [wrj] [wrt] 2 [wrth] [??5t] [wr] t [?23] [0wt] 
+[??2t] [9wd] [9wt] [2f] [9wtg] [??2t] [9w] t [?23d] [0wt] 
+[??4ts] [qe] [qet] 2 [qeta] [??4t] d [qek] t [?25j] [wrt] t 
+[??6t] [eth] [et] [2j] [eth] [??6tj] [et] t [?23f] [0wt] d 
+[??5tj] [wrj] [wrt] 2 [wrth] [??5t] [wr] t [?23] [0wt] 
+[??2t] [9wd] [9wt] [2f] [9wtg] [??2t] [9w] t [?23d] [0wt] 
+[??4ts] [qe] [qet] 2 [qeta] [??4t] d [qek] t [?25j] [wrt] t 

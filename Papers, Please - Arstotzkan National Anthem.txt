@@ -1,0 +1,48 @@
+[19] [16] 
+[19] [16] y y y 
+[19i] [16] 
+[19] [16] y y y 
+[19i] i i i [16p] p p p 
+[19d] d d d [16g] h 
+[1qj] [18] 
+[1q] [18] g g g 
+[1qd] d d d [18s] s s s 
+[1qp] p p p [18o] u 
+[19y] [16] 
+[19i] y e i y e [16u] t e u t e 
+[19i] y e i y e [16u] t e [yu] [ty] [ey] 
+[19i] y e i y e [16u] t e u t e 
+[19i] y e i y e [16u] t e [yu] [ty] [ey] 
+[19i] y e i [yi] [ei] [16up] t e [up] [tp] [ep] 
+[19id] y e [id] [yd] [ed] [16ug] t e [uh] t e 
+[1qpj] i t p i t [18o] u t o u t 
+[1qp] i t p i t [18o] u t [og] [ug] [tg] 
+[1qpd] i t [pd] [id-] [td-] [18os] u t [os] [us] [ts] 
+[1qp] i t p [ip] [tp] [18o] u t [uo] u t 
+[*19y] i [16y] e 
+[19y] e y i [16y] e 
+[10u] e u o [16u] e 
+[10u] e u o [16u] e 
+[1qi] e i p [16i] e 
+[1qi] i i p [16i] e 
+[1^E] E E E [15w] w 
+[1*T] T T T [16T] 
+[*19yi] y e i y e [16yu] t e u t e 
+[19yi] [ey] [ey] i y e [16yu] t e u t e 
+[10uo] [eu] [eu] o u e [16uo] u e o u e 
+[10uo] [eu] [eu] o u e [16uo] u e o u e 
+[1qip] [ei] [ti] p i t [16ip] i t p i [et] 
+[1qip] i [ti] p i t [16ip] i t p i [et] 
+[^E1o] [Ey] E [Eo] y E [15wo] y E o y [wE] 
+[*T1u] T [eT] [Tu] T e [T16u] T e u T e 
+[*12y] y y [9y] y y [12y] y y [9y] y y 
+[13u] u u [0u] u u [13u] u u [0u] u u 
+[14i] i i [qi] i i [14i] i i [qi] i i 
+[??E] E [?E] [^E] E E [?!T] T [?T] [*T] T T 
+[*12y] y y [9y] y y [12y] y y [9y] y y 
+[13u] u u [0u] u u [13u] u u [0u] u u 
+[14i] i i [qi] i i [14i] i i [qi] i i 
+[??E] E [?E] [^E] E E [?!T] T [?T] [*T] T T 
+[?*4y] [?*5u] [?*6i] 
+[?*2y] [?*3u] 
+[?*4i] 

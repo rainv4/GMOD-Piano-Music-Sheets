@@ -1,0 +1,14 @@
+8 t [8Y] P 8 O [8o] Y 
+[7y] i [7P]- 7 O [7o] i 
+4 t [4Y] O 4 o [4Y] t 
+[5t] y [5E]- 5 E [5y] E 
+8 t [8Y] P 8 O [8o] Y 
+[7y] i [7P]- 7 s [7o] i 
+4 t [4Y] O 4 o [4Y] t 
+[5t] y [5E]- 5- [5w]- 
+[%y]- [%t]- %- %- 
+[^Y]- ^- [^y]- ^- 
+[YD][wo][ysd][wo][EP][wo][tsg][wo][sYD][wo][ts][wo][Pyd][wo][YPD][wo] 
+[sYD][wo][ysd][wo][EP][wo][tsg][wo][sYD][wo][ts][wo][Pyd][wo][Pyd][oYD][YDJ][to] 
+[sYD][wo][ysd][wo][EP][wo][tsg][wo][sYD][wo][ts][wo][Pyd][wo][Pyd][wo][YPD][wo] 
+[sYD][wo][ysd][wo][EP][wo][tsg][wo][sYD][wo][ts][wo][Pyd][wo][woD][Yo]

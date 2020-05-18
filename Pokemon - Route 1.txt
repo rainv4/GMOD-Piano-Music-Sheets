@@ -1,0 +1,10 @@
+d f G G G
+d f G G G
+d f G G h G f
+S d f f f
+S d f f f
+S d f f G f f G d
+d f G G G
+d f G G G
+d f G G h G f
+S d f h G f d S a S f f G f G d

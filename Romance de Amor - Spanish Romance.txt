@@ -1,0 +1,114 @@
+[0a] r w a r w a r w 
+[0a] r w p r w o r w 
+
+[0o] r w I r w u r w 
+[0u] r w o r w a r w 
+
+[0f] r w f r w f r w 
+[0f] r w d r w s r w 
+
+[es] u t a u t p u t 
+[ep] u t a u t s u t 
+
+[ra] I Y s I Y a I Y 
+[rD] I Y s I Y a I Y 
+
+[0a] r w p r w o r w 
+[0o] r w I r w u r w 
+
+[7I] r e I r e I r e 
+[I(] r e o r e I r e 
+
+[0u] r w [7u] r w [5u] r w { 3 5 7 w r u }
+
+[0O] r W O r W O r W 
+[0O] r W I r W u r W 
+
+[6u] e Q Y e Q Y e Q 
+[6Y] e Q y e Q Y e Q 
+
+[rS] I Y S I Y S I Y 
+[rS] I Y D I Y S I Y 
+
+[0S] r W a r W a r W 
+[0a] r W S r W D r W 
+
+[rf] O u f O u f O u 
+[rf] O u D O u d O u 
+
+[eS] u T S u T S u T  
+[eS] u T a u T p u T 
+
+[7O] Y r O Y r O Y r 
+[O(] Y r p Y r I Y r 
+
+[0u] r W [7u] r W [u%] r W 3 { % 7 W r u }
+
+[0k] r w k r w k r w 
+[0k] r w j r w h r w 
+
+[0h] r w G r w f r w 
+[0f] r w h r w k r w 
+
+[0x] r w x r w x r w 
+[0x] r w z r w l r w 
+
+[el] u t k u t j u t 
+[ej] u t k u t l u t 
+
+[rk] I Y l I Y k I Y 
+[rZ] I Y l I Y k I Y 
+
+[0k] r w j r w h r w 
+[0h] r w G r w f r w 
+
+[7G] r e G r e G r e 
+[G(] r e h r e G r e 
+
+[0f] r w [7f] a o [5f] a o { 3 5 7 o a f }
+
+[0H] r W H r W H r W 
+[0H] r W G r W f r W 
+
+[6f] e Q D e Q D e Q 
+[6D] e Q d e Q D e Q 
+
+[rL] I Y L I Y L I Y 
+[rL] I Y Z I Y L I Y 
+
+[0L] r W k r W k r W 
+[0k] r W L r W Z r W 
+
+[rx] O u x O u x O u 
+[rx] O u Z O u z O u 
+
+[eL] u T L u T L u T 
+[eL] u T k u T j u T 
+
+[7H] Y r H Y r H Y r 
+[H(] Y r j Y r G Y r 
+
+[0f] r W [7f] a O [f%] a O { 3 % 7 O a f }
+
+[0a] r w a r w a r w 
+[0a] r w p r w o r w 
+
+[0o] r w I r w u r w 
+[0u] r w o r w a r w 
+
+[0f] r w f r w f r w 
+[0f] r w d r w s r w 
+
+[es] u t a u t p u t 
+[ep] u t a u t s u t 
+
+[ra] I Y s I Y a I Y 
+[rD] I Y s I Y a I Y 
+
+[0a] r w p r w o r w 
+[0o] r w I r w u r w 
+
+[7I] r e I r e I r e 
+[I(] r e o r e I r e 
+
+[0u] r w [7u] r w [5u] r w { 3 5 7 w r u }

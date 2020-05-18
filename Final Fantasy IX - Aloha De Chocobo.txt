@@ -1,0 +1,25 @@
+8 w [to] w 5 i y w 
+8 w [tu] w [tu] w [tu] w 
+8 w [to] w 5 i y w 
+8 w [tu] w [tu] w [tu] w 
+5 r i u o i r i - 5 r i o i r i 
+8 w [to] w 5 i y w 
+8 w [tu] w [tu] w [tu] w 
+8 w [to] w 5 i y w 
+8 w [tu] w [tu] w [tu] w 
+[8o] w u t [^e] o u t 
+[8u] w t w [^u] w E y 
+[8t] tyt E [^t] w i u 
+[8t] tuo p [^P] t r t 
+[8o] w u t [^e] o u t 
+[8u] w t w [^u] w E y 
+[8t] tyt E [^t] w i u 
+[8t] tuo p [^P] t r t 
+[qtip] q i y [5r] y i p 
+[tuo] 8 [ips] 8 [tuo] 8 u o 
+[9eti] u y t [5r] t y r 
+[8t] tyt E [^t] E o t 
+[qtip] q i y [7r] Y I p 
+[ruo] 8 [ips] 8 [Euo] 8 u o 
+[^y] yuy t y E i u 
+[5y] yui o p i a o [8s] 

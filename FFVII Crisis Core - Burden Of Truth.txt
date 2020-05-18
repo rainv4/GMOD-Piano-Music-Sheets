@@ -1,0 +1,35 @@
+{[37] 0 Q r }   {r u I a} {8 0 3 Q r}   {t u I a}
+{7 0 3 Q r}   {r u I a}   {8 0 3 Q r}   {t u I a}
+
+3 [7Q] [0w] [rQ] [wu] [rI] 
+3 [7Q] [0w] [rQ] [wu] [to] 
+3 [7Q] [0w] [rQ] [wu] [yp] 
+3 [7Q] [0w] [rQ] [wu] [to] 
+
+[3uw] [7uw] [0uw] Q [wy] u e 3 [7r] [0t] [rQ] w Q 9 6 
+[3uw] [7uw] [0uw] Q [wy] u e 3 [7r] [0t] [rQ] w Q 9 6 
+[1t0] 5 [8t0] 0 Q [0t] [yQ] [0t] [r9] 5 Q 5 9 5 6 5 
+[1t0] 5 [8t0] 0 Q [0t] [yQ] [0t] [r9] 5 Q 5 9 5 6 5 
+[1t0] 5 [8t0] 0 Q [0t] [yQ] [0t] [r9] 5 Q 5 9 5 6 5 
+[1t0] 5 [8t0] 0 Q [0t] [yQ] [0t] [2uQ] 6 [9y] e y e Q 3 7 0 
+[rwQ] [ouI] 
+3 7 0 [aur] 
+
+[3uw] [7uw] [0uw] Q [wy] u e 3 [7r] [0t] [rQ] w Q 9 6 
+[3uw] [7uw] [0uw] Q [wy] u e 3 [7r] [0t] [rQ] w Q 9 6 
+[8t]    [ou] w t [ou] I o [5aI] 
+y Q 9 6
+[8su] w [tou] t [ou] [yI] [ou] [5yI] 9 [wyr] Q w Q 9 6 
+[8su] w t o [yI] o I [5yI] 9 [wy] Q w Q 9 6 
+[8su] w [ou] t [ou] I o [9ayI] p 2 
+[18out] I [0out] Q w [out] I o [5or] 9 [wyr] Q w Q 9 6
+[3our] [7I] [0or] Q w [ou] I o [6pT] 0 [eu] y T e 0 Q 
+[8out] [5I] [8out] 0 Q [wout] I o [5or] 9 [wyr] Q w Q 9 6 
+[3or] [7I] [0or] Q w [or] I o [7raY] [rp] [ro] [rI] 
+
+3   {[fao] u}   
+{[3yrQ] 0}    {[faI] u}
+{[3yrQ] 0}    {[fsI] u}
+{[3yrQ] 0}    {[faI] u}
+
+3 [rw0753Q] {0 w r u I o u a} { [khfaouG] f } [nk]

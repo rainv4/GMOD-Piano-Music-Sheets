@@ -1,0 +1,83 @@
+[(Y] [(Y] [(Y] [(Y] 
+[qY] [qY] [qY] [qY] [qY] 
+[y^] [y^] [y^] [y^] 
+[y5] [y5] [y5] [y5] [y5] 
+
+[(Y] [(Y] [(Y] [(Y] 
+[qY] [qY] [qY] [qY] [qY] 
+[y^] [y^] [y^] [y^] 
+[y5] [y5] 
+
+[y5d] [y5d] [y5d] [d(Y] [(Y] [(Y] [D(Y] [qsY] [qY] [qY] [qY] 
+s [qY] i [ys^] [ys^] P [yd^] [yi^] [y5o]
+[y5d] d [y5d] [y5d] d [y5d] [d(Y] [(Y] [(Y] [D(Y] [qsY] [qY] [qY] [qY] 
+s [qY] i [ys^] [ys^] [ys^] [yd^] [y5P] [y5p] o [y5] [y5] [y5] 
+
+[P(Y] [(Y] [(Y] [(Y] [qpY] [qY] [qY] [qY] [qY] 
+[yP^] [y^] [y^] [y^] [y5p] [y5] [y5] [y5] [y5] 
+[J(Y] [(Y] [(Y] [(Y] [qjY] [qY] [qY] [qY] [qY] 
+[yJ^] [y^] [y^] [y^] [y5j] [y5] 
+
+[i5d] [5dP] p [o5d] i [od(] ( ( [D(] [iqs] q 
+[iq] [qP] [ps] [iq] [yi] [is^] [s^] P [s^] s [d^] [y5P] [5p] o [i5] 
+[5dP] [pd] [o5d] [id] [od(] ( ( D ( [iqs] q 
+[iq] [qP] [pP] [iq] [yP] [iS^] s [P^] P ^ [S^] [y5s] P [5P] 
+
+[5h] [5h] h [5h] [h(P] [s(] P ( [sd(] [qgP] q s [qP] 
+q g q g [g^P] [s^] [iP] [g^] [sD^] [5P] d [5i] 
+[sd] [5dP] [5d] [pd] [o5d] [id] [od(] ( ( D ( [iqs] q 
+[iq] [qP] [pP] [iqP] y [iS^] s [P^] P ^ [S^] [y5s] P [5P] 5 5 5 
+
+g [h(Y] [h(Y] [h(Y] g [h(Y] [qgY] [qY] s [qdY] [qY] D [qY] 
+[yg^] [yg^] [yg^] d [yg^] [y5d] [y5] o [y5p] [y5] P [y5] 
+
+[h(Y] [h(Y] [h(Y] g [h(Y] [qgY] [qY] s [qdY] [qY] D [8Y] D 
+[y9g] d [y9g] [y9g] d [yg^] [y5d] [y5] o [y5p] [y5] P [y5] 
+
+[h(Y] [h(Y] [h(Y] g [h(Y] [qjY] [qjY] [qjY] [qY] [qY] 
+[yg^] [yg^] [yg^] [yg^] [y5D] D [y5d] [y5] 
+
+[y5d] d [y5d] d [(Y] [(Y] [(Y] D [(Y] [qsY] [qY] [qY] [qY] 
+s [qsY] P [yp^] p [y^] [yd^] [yp^] [y5P] [y5] [y5] [y5] [y5] 
+
+[P(Y] [P(Y] [P(Y] [P(Y] [qPY] [qPY] [qPY] [qPY] [qPY] 
+[yP^] [yP^] [yP^] [yP^] [y5P] [y5P] [y5P] [y5P] [y5P] 
+[P(Y] [P(Y] [P(Y] [P(Y] [qPY] [qPY] [qPY] [qPY] [qPY] 
+[yP^] [yP^] [yP^] [yP^] [y5P] 
+
+[y5d] d [y5d] [y5d] d [y5d] d [(P] p [(P] p [(P] 
+[pD] [(P] [qsP] p [qP] p [qP] [qP] [ps] [qsP] [pi] [s^P] p [^P] 
+[pP] [d^P] p [i^P] [5oP] p [5P] 
+
+[pd] [5dP] [5dP] [pd] [5dP] [pd] [d(P] p [(P] p [(P] 
+[pD] [(P] [qsP] p [qP] p [qP] [qP] p 
+[qP] [pP] [S^P] [ps] [P^] [pP] [^P] p [P^] [5dP] p [5sP] [pP] [5P] 
+
+[5hP] [ph] [5hP] [ph] [h(Y] ( ( d ( [iqg] q q q 
+[qg] g [g^P] [g^] g [g^] g [D^] 
+[p5d] 5 d [5d] [5d] d [5d] d [d(Y] ( ( D ( [iqs] q q q 
+[qP] [pd^] s [P^] o [P^] P [o^] [i5P] 5 5 5 5 
+
+g [dh(] [h(] [h(] g [h(] [qgD] q s [qd] q D q 
+[sg^] [g^] [g^] d [g^] [5dP] 5 o [5p] 5 P 5 
+[dh(] [h(] [h(] g [h(] [qgD] q s [qd] q D 8 
+D [s9g] d [9g] [9g] d [g^] [5dP] 5 o [5p] 5 P 5 
+
+[dh(] [h(] [h(] g [h(] [qjD] [qj] [qj] q q 
+[sg^] [g^] [g^] [g^] [5DP] D [5d] 5 
+[5d] d [5d] d [(Y] ( ( D ( [iws] w w w 
+[os] [iws] [PY] [yp(] p ( [d(] [p(] [iwP] w w w 
+
+i [ow] p [YEP] e E e E e E [yE] e E e E E e E e 
+[YE] e E e E e E [yE] e E e E E e E e 
+[YE] e E e E e E [yE] e E e E E e E e 
+[tY] t t t t [tY] [ytY] i [tYP] [tY] [ptY] o 
+
+[dE]   [itD] y i P p i [dE]   [yes] y i P p o 
+[dE]   [itD] y i P p i [dE]   [yes] y i P p [oq] 
+[wd] w w q w [iqD] y [i8] [9P] ( p i 
+[qs] q q 9 q [y9P] y [i5] [6P] ^ p o 
+[wd] w w q w [iqD] y [i8] [9P] ( p [i(] 
+[qs] 9 q q 9 q [y9P] y [i5] [6P] ^ p o 
+[wd] w w q w [ieD] [ye] i [eP] p [iq] 
+[qs] q q ( ( [yP(] 9 9 9 9 9 [oY]   [ip] i o i Y [yi]   [yo]

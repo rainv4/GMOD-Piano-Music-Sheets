@@ -1,0 +1,41 @@
+{ [soy] [soy] [soy] [soy95] }
+[hw] [gq] [hw] [f0] [hw] [d9] [hw] 
+
+[hfst8]   [hfst8]   [fst8] [gfst8] [hfst8] [jfs] { [hdar7] [r7] }   [gdpr7]   { [fsor7] [r7] } { [dai] [e6] }
+{ [fso] [e6] } { [fso] [e6] } [soe6] [dso] [fsoe6] [gso] { [fao03] [03] }   [dao03]   { [sao03] [03] } { [ayO] [03%] }
+[q4] [q4] [pitq4] [pit] { [spiq4] [q4] } { [jgspq4] [q4] } { [hfao03] [03] [03] }   [spie6] [e6] 
+{ [dpie6] [fsoe6] } { [gsp^E] [^E] } [fso^E] { [dpi^E] [^E] } { [spi^E] [^E] } { [daow5] [w5] [w5] [w5] }
+{ [souw5] [w5] } { [aoyw5] [w5] } 
+
+[st8%(] W w q    ( 9 (    [9q^] E W w  
+q ( q [s0t] l [st] l [ar] k [pe] j [ow] h [iq] g [u0] f [y9] d [8%(] 
+
+[s8%(] [8%(] s s s [sq9%] P [q9%O] [q9%] P s [q9^P] [q9^E] [q9^P] P [^P] [7O] [5^(O] [5^(P] O [o5] 8 8 
+[5O] [$P] [8%(O] [t8%(] [8%(O] O [o8%(] [q86] [q86] 
+[i%] [oq96] [q96] [i9] [i*] [i5^(] i i [i5^(] [5^(Y] i [o95^] [5^*] ^ ( [t(O] ^ [y6P] 
+[s8%(Y] [s8%(Y] [8%(] [sY] [sY] [sY] [sq9^Y] [yP] [tq9^O] [q9^] [yP] [s^Y] % [y95^P] 
+[95^] [95^P] [95^P] s 9 [d*] [85(D] [d85(] D 5 [8P] [8O] [5O] [o$] [84%O] [84%] [84%] [84%] 
+O [4P] [$O] [o85] [o85] [o85] [o975] [h975] 9 [g5] [g5^(] [5^(] [g5^(] D d D [85(] [s85(] [s85(] [d8] ^ 
+[8%(D] [8%(D] [d9] ( [8%(D] [8%(] [d9] ( [8%(D] [8%(] [s(] [g8%(] [8%(D] [d^] [s%] [s95^] [95^P] [o*] 9 [95^P] [95^P] [o*] 9 [95^P] [95^P] [o*] 9 
+[95^P] [95^] s 9 [d*] [5@^(D] [5@^(] d [5@^(] [5@^(D] [s5@^(] [5@^(] [5@^(] [5@^(] [8@%(D] [8@%(] d [8@%(] [8@%(D] [sq84%] [sq84%] [hq84%] [gq84%] [gq84%] [q84%] [q84%] [gq84%] [gq84%] [q84%D] [gq84%] [hq84%] [q95^] w q w 0 w 9 w 
+
+[hfst8] [t8] [hfst8] [fst8] [gfst8] [hfst8] [jfst8] [hda] [r7] [gdpr7] [fsor7] [r7] [dair7] [r7] 
+[fsoe6] [e6] [fsoe6] [soe6] [dsoe6] [fsoe6] [gsoe6] [fao03] [03] [dao03] [dao] [sao03] [03] [ay03O] [03] 
+[q4] [q4] [pitq4] [spiq4] [q4] [jgsq4] [q4] [hfs03] [03] [hfs03] [spu] [e6] [e6] 
+[dpie6] [faoe6] [gspy9] [y9] [faoy9] [dpiy9] [y9] [spuy9] [dpiy9] [fa03O] [03] [g03] f [daow5] [e6] [r7] [y9] [hfst8] [t8] [hfs] [t8] [fst8] [gfs] [hfst8] [jfs] [hda] [hdar7] [gdpr7] [gdp] [fsor7] [r7] [dai] [r7] [fso] [e6] [fsoe6] [soe6] [dsoe6] [fsoe6] [gsoe6] [fao03] [03] [dao03] [sao03] [03] [ay03O] [03] [q4] [q4] [pitq4] [pit] [spiq4] [q4] [jgspw5] [q4] [hfao03] [03] [03] [spie6] [e6] [dpie6] [fso] [gsp^E] [^E] [fso^E] [dpi^E] [^E] [spi^E] [daow5] [w5] [w5] [sou] [aoy] [sou085] 
+
+w t u y t w t i t w u y t w t [94^] w t u y t w t i t w u y t w t [uq86] t w i y t e t i t e i y t e t 
+[%W] [%Y] [t%] [%O] [%Y] [t%] [%W] [t%] [^E] [i^] [y^] [^P] [i^] [y^] [o^E] [y^P] [8D] [s8] 8 h [g8] [8J] [h8] 8 [7P] [a7] [a7] d [g7] 7 [p9] 7 [^P] [^P] ^ d [hd^] [hd] [h^D] [hdq] q [6O] [p6] [s6] g [6D] 6 q [oq] [%O] [%O] [%DH] [%DH] [g(S] P ( S [8O] P % S [^O] [^P] [g^J] ^ [hqD] [gdq] [9P] [d^] 8 [s8] [st] l [ar] k [pe] j [ow] h [iq] g [u0] f [y9] d 
+
+[s8%(] [s8%(] [8%(] s s s [sq9%] P [q9%O] [q9%] P s [q9^P] [q9^E] [q9^P] P [^P] [7P] [5^(P] [5^(P] O [o5] 8 [8O] [5P] $ [8%(O] [t8%(] [8%(O] O O [8%(O] [oq86] [oq86] o [o%] [oq96] [q96] [i9] [i*] [5^(] i i [5^(] [5^(Y] i [o95^] [5^*] ^ ( [t(O] ^ [y6P] [s8%(Y] [s8%(Y] [8%(] [sY] [sY] [sq9^Y] [yP] [tq9^O] [q9^] [yP] [s^Y] % [y95^P] [95^] [95^P] [95^P] s 9 [d*] [85(D] [d85(] D [5D] [8P] [8O] [5O] [o$] [84%O] [84%] [84%] [84%] O [4P] [$O] [o85] [o85] [o85] [o975] [h975] 9 [g5] [g5^(] [5^(] [g5^(] D d D [85(] [85(] [s85(] [d8] [d^] [8%(D] [8%(D] [d9] ( [8%(D] [8%(] [d9] ( [8%(D] [8%(] [s(] [g8%(] [8%(D] [d^] [s%] [s95^] [95^P] [o*] 9 [95^P] [95^P] [o*] 9 [95^P] [95^] P [*P] 9 [95^P] [95^] s 9 [d*] [5@^(D] [5@^(] d [5@^(] [5@^(D] [s5@^(] [5@^(] [5@^(] [5@^(] [8@%(D] [d8@%(] [8@%(] [8@%(D] [sq84%] [sq84%] [hq84%] [gq84%] [gq84%] [q84%] [q84%] [gq84%] [gq84%] [q84%D] [gq84%] [hq84%] [q95^] w q w 0 w 9 w 
+
+[hfst8] [t8] [hfst8] [fst8] [gfst8] [hfst8] [jfst8] [hda] [r7] [gdpr7] [fsor7] [r7] [dair7] [r7] 
+[fsoe6] [e6] [fsoe6] [soe6] [dsoe6] [fsoe6] [gsoe6] [fao03] [03] [dao03] [sao03] [03] [ay03O] [03] 
+[q4] [q4] [pitq4] [pit] [spiq4] [spiq4] [jgspq4] [jgspq4] [hfao03] [03] [hfao03] [spi] [e6] [e6] 
+[dpie6] [fspe6] [gspy9] [y9] [fsoy9] [fso] [dpiy9] [y9] [spuy9] [daiy9] [fa03O] [03] [g03] f [daow5] [e6] [r7] [y9] 
+[hfst8] [t8] [hfs] [t8] [fst8] [gfs] [hfst8] [jfs] [hda] [r7] [gdpr7] [gdp] [fsor7] [r7] [dai] [r7] 
+[fso] [e6] [fsoe6] [spe6] [dae6] [fse6] [gde6] [fso03] [fso03] [dao03] [dao] [sao03] [03] [ay03O] [03] 
+[q4] [q4] [pitq4] [pit] [spiq4] [q4] [jgspw5] [q4] [hfao03] [03] [hfao03] [spi] [e6] [e6] [e6] 
+[gsp^E] [gsp^E] [fso^E] [dpi^E] [^E] [spi^E] [daow5]   [sou] [aoyw5] 
+
+[st8(YO] W w q ( 9 ( [diy9P] E W w q ( q [sitq] w q [sut0]

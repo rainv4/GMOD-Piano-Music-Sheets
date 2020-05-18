@@ -1,0 +1,8 @@
+[$QET] [QE] [Qr] [QE] [@QET] [QE] [Qr] [QE]
+[$QET] [QE] [Qr] [QE] [@QET] [QE] [Qr] [QE] [7rQY]
+[$QET] [QE] [Qr] [QE] [@QET] [QE] [Qr] [QE]
+[!QET] [QE] [Qr] [QE] [7rQI]
+[$QET] [QE] [Qr] [QE] [@QET] [QE] [Qr] [QE]
+[!QET] [QE] [Qr] [QE] [7rQY] [QE] [Qr] [QT]
+[$QETI] [$QEI] [r$QI] [$QEI] [@QETI] [@QEI] [r@QI] [@QEI]
+[!QETI] [!QEI] [r!QEI] [!QEI] [7rQYI] - [WO] - [$EP]

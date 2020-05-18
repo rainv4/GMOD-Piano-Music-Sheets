@@ -1,0 +1,15 @@
+fd h h j j k h d
+fd h h j j h
+fd h h j j k h d
+fd h h j j k j
+fd h h j j k h d
+fd h h j j h
+
+lkhf h j f h d f h
+lkhf h j f h
+lkhf h j f h d f h d hs
+
+pdhjj h f h j k z j k
+h f h j j h f h f z k
+pdhjj h f h j k z j k
+h G f f G h G h

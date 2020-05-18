@@ -1,0 +1,25 @@
+q [et] [et] 0 [et] [et] 9 [et] [et] 8 
+
+{ g j g [qf] } [et] [et] 0 [et] 
+{ g [etj] f [9d] } [et] 
+{ d [etg] d [8s] } [et] 
+{ s [etd] g } 
+[7j] [9qwh] [9qw] d 
+[7j] [9qwh] [9qw] g 
+[7d] [9qw] [9qw] 7 [9qw] 
+{ g [9qwh] g [0f] } [wt] [wt] 9 [wt] 
+{ f [wth] f [8s] } [0w] { s [0wf] s [P^] } [9w] { P [9ws] P } q 
+[etp] [etP] [qs] [et] { d [etf] } 8 [0ws] [0wd] [8f] 
+
+{ g j g [qf] } [et] [et] 0 [et] 
+{ g [etj] f [9d] } [et] 
+{ d [etg] d [8s] } [et] 
+{ a [etd] g }
+[7j] [9qwh] [9qw] d 
+[7j] [9qwh] [9qw] g 
+[7d] [9qw] [9qw] 7 [9qw] 
+{ g [9qwh] g [0f] } [wt] [wt] 8 [wt] 
+{ f [wth] f [8s] } [0w] { s [0wf] s [P^] } [9w] { P [9ws] P } q 
+[etp] [etP] [qs] [et] { d [etf] } 8 [0ws] [0wd] [8f] [0w] { g [0wh] }[qg]
+
+ [qet]   [0et]   [9et]   [8et]   [qet]

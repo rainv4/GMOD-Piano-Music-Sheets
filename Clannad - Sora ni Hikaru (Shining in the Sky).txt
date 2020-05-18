@@ -1,0 +1,56 @@
+S H 
+[r(QH] J D S H 
+[*QEH] J S I S 
+[$S] [(a] [rP] O [!I] * [ri] 
+[$S] * Q W T S H 
+[r(QH] J D S H 
+[*QEH] J S I S 
+[$S] [(a] [rP] O [!I] * [ri] 
+[$TI] * Q W [*QE] S H 
+[r(QH] J D S H 
+[*QEH] J S I S 
+[$S] [(a] [rP] O [!I] * [ri] 
+[$S] * Q W T I S H 
+[r(QH] J D S H 
+[*QEH] J S I S 
+[$S] [(a] [rP] O [!I] * [ri] 
+[$TI] * Q W [*QE] I G g 
+[(Q7rg] [(Q7r] D [r(QYD] [r(QY] 
+[Qri] [riQD] g [r(QYH] G [(QYrg] D 
+[qWTD] [qWT] S [QETS] [QET] 
+[qWT] [qWT] [QET] I [QETG] g 
+[(Q7rg] [(Q7r] D [r(QYD] [r(QY] 
+[Qri] [riQD] g [r(QYH] G [(QYrg] D 
+[Eqyd] [Eqyg] [qyWJ] [qyWH] 
+[EYIH] J [EYIG] g [ETIG] [ETIH] g 
+[(QYrg] [rQY] D [r(QYD] [r(QY] 
+[r(QY] [rQYD] g [r(QYH] G [(QYrg] D 
+[Eqyd] [Eqyg] [qyWJ] [qyEH] 
+[QEYIH] J [QEYIG] g [QETIG] H [QETIJ] G 
+[EYIPZ] [EYIP] [iWTO] [iWTO] 
+[rQYI] [rQYIZ] [rWYOL] [WYOrk] 
+[epTIL] [TIep] [iWTO] [iWTO] 
+[rQYI] [rQYIL] [QTIrk] [QTIrj] 
+[iWTOH] [iWTO] [iWTOG] [iWTO] 
+[Eyig] [Eyi] [Eyi] [TS] [OH] 
+[7(QOH] [$PJ] [7(QYD] Q [rQYI] Q [7$(QTS] [$OH] 
+[^*QOH] [$PJ] [^*QTS] Q [ETI] Q [^*QI] [$TS] 
+[7%(TS] [@ra] [7%(EP] [@WO] [q%*I] 4 [%*qi] 4 
+[^*QTS] $ [^*Q] Q [ETI] Q [^*QTS] [$OH] 
+[7(QOH] [$PJ] [7(QYD] Q [rQYI] Q [7$(QTS] [$OH] 
+[^*QOH] [$PJ] [^*QTS] Q [ETI] Q [^*QG] [$SL] 
+[7%(SL] [@ak] [7%(PJ] [@OH] [q%*IG] 4 [%*qig] 4 
+[70QIG] $ [70Q] Q [ruI] Q [70Q] $ 
+[69Q] $ [69Q] Q [eyI] Q [69Q] $ 
+[%*Q] $ [%*Q] Q [WTI] Q [%*Q] $ 
+[%*q] 4 [%*q] Q [Wri] S H 
+[r(QH] J D S H 
+[*QEH] J S I S 
+[$S] [(a] [rP] O [!I] * [ri] 
+[$S] * Q W T S H 
+[r(QH] J D S H 
+[*QEH] J S I S 
+[$S] [(a] [rP] O [!I] * [ri] 
+[$TI] * Q W [*QE] * Q r 
+T I S G g G S a P a P I 
+O P O {QEI} 

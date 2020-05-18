@@ -1,0 +1,70 @@
+[7r]   [7r] [7r] 
+[7r]   [7r] [7r] 
+
+[7raI] a a 
+[7wyoa] a a 
+[7eupa] a a 
+[70ua] a { S d }
+
+[7raI] a a 
+[7wyoa] a a 
+[7eupa] a a 
+[70ua] a { S d }
+
+[7raI] a a 
+[7wyoa] a a 
+[7eupa] a a 
+[70ua] a { S d }
+
+[7raI] a a 
+[7wyoa] a a 
+[7eupa] a a 
+[70ua] a { S d }
+
+[7ra] { S d }
+{ [7ra] [7r] }   { 7 7 7 7 7 }
+[7u]   { 7 7 7 7 7 }
+[5rya]   { 5 5 5 5 5 }
+[6upT]   { 6 6 6 6 6 }
+[7ra]   { 7 7 7 7 7 }
+[7uf]   { 7 7 7 7 7 }
+[5wafk]   { [5w] [5w] [5w] [5w] [5w] }
+[6efjLS]   { [6e] [6e] [6e] [6e] [6e] }
+
+[7rk] { k k k k } [5whk] { [hk] [hk] [hk] [hk] }    [6ejk] [jk] [jk]    [30fk] [fk] [fk] 
+[7rk] { k k k k } [5whk] { [hk] [hk] [hk] [hk] }    [6ejk] [jk] [jk]    [30fk] [fk] [fk] 
+[7rkz] { [kz] [kz] [kz] [kz] } [5wkz] { [kz] [kz] [kz] [kz] }   [6ejL] [jL] [6ejL]    [30fk] [fk] [fk] 
+[7rkz] { [kz] [kz] [kz] [kz] } [5wkz] { [kz] [kz] [kz] [kz] }   [6ejL] [jL] [6ejL]    [30fk] [30ak] [30LS] 
+
+[7dzG] 9 Q r y I p I 
+[ydz] r [fxQ] 9 [7CG] 9 Q r y I p I 
+[yCG] r [jbQ] 9 [6fjxL] * 0 e T u p u 
+[dzT] e [0LS] * [0afkH] W r u o a f a 
+[oak] u [rLS] W [7dzG] 9 Q r y I p I 
+[ydz] r [fxQ] 9 [7kCG] 9 Q r y I p I 
+[yCG] r [jbQ] 9 [6kzn] 7 9 w r y o y 
+[rjb] w [9L] 7 [3kn] 5 7 0 w r u r 
+{ [wak] 0 } { [7LS] 5 } { [79rdzQ] [79rQ] } { [LS] [79rQ] } { [ak] [79rQ] } { [579wpj] [579w] } { [oh] [579w] } { [GI] [579w] }
+[357uf] { [357] [357] [357] }
+[357yd] [357uG] 
+[36uf!] { [36!] [36!] [36!] [36!] }
+
+[36dz!] [LS] [79rdzQ] 7 
+[dz] [LS] [79rdzQ] 7 
+[dz] [LS] [60efx*] [6dz] [LS] [79adkQ] 7 
+[adk] [pj] [579wadk] 5 
+[ak] [aj] [3570afk] 3 
+[pj] [ak] [60eLS*] [6dz] [pj] [79adkQ] 7 
+[ak] [LS] [79rdzQ] { [7dz] [dz] } [fx] [579wCG] 5 
+[LS] [dz] [60efx*] [6dz] [LS] [79akQ] 7 
+[ak] [pj] [579wadk] 5 
+[ak] [pj] [3570afk] 3 
+p a [60eLS*] [6dz] [pj] [79radkGQ] 
+{ [79rQ] [79rkCGQ] } { [79rkQ] [79rkCGQ] } { [79rkQ] [579wkCG] } { [579wGI] [579wGI] }
+{ [579w] [79rkCGQ] } { [79rkQ] [79rkCGQ] } { [79rkQ] [579wkCG] } { [579wGI] [79raGIQ] } 
+
+a S [dI]    S    { I a G } 
+[7ra] S d [6eG] [5wryoa]
+[ak] [pj] [oh] [GI] [uf] [7ruW] 
+
+0   r   [uO]   7

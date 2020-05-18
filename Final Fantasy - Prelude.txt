@@ -1,0 +1,33 @@
+8 9 0 w t y u o s d f h l z x v :
+m v x z l h f d s o u y t w 0 9 :
+6 7 8 0 e r t u p a s f j k l x :
+b x l k j f s a p u t r e 0 8 7 :
+8 9 0 w t y u o s d f h l z x v :
+m v x z l h f d s o u y t w 0 9 :
+6 7 8 0 e r t u p a s f j k l x :
+b x l k j f s a p u t r e 0 8 7 :
+6 8 q w e t i o p s g h j l c v :
+b v c l j h g s p o i t e w q 8 :
+7 9 w e r y o p a d h j k z v b :
+n b v z k j h d a p o y r e w 9 :
+% 8 ( w W t Y o O s D h H l Z v :
+V v Z l H h D s O o Y t W w ( 8 :
+^ 9 q e E y i p P d g j J z c b :
+B b c z J j g d P p i y E e q 9 :
+
+[8tosfl]z[9l] 0 w t y u o s d f h l z x v :
+[km] v x z l h f d [sz] o u y t w 0 9 :
+[6eupsk]l7 8 0 e r t u p a s f j k l x :
+[zb] x l k [jl] f s a [pk] u t r [ez] 0 8 7 :
+[8tuosl]z[9l] 0 w t y u o s d f h l z x v :
+[km] v x z l h f d [sz] o u y t w 0 9 :
+[6eupsz] 7 [8x] 0 [el] r t u [pfj] a s f j k l x :
+[xb] x l k [jz] f s a [pl] u t r [ek] 0 8 7 :
+[46qipshj]j8 q w e t i o p s g h j l c v :
+[hb] v c l j h g s [pj] o i t e w q 8 :
+[57woadk] 9 w e r y o p a d h j [kl] z v b :
+[zn] b v z k j h d [akv] p o y r e w 9 :
+[sl%WYOZ]c8 ( w [WZ] t [Yz] o [Ol] s D h H l Z v :
+[HV] v Z l [hH] h D s [Og] o Y t [WD] w ( 8 :
+[id^EPZ]v9 q e [Ec] y <[iZ]cZc> [pZ] [Pz] d g j J z c b :
+B b c z J j g d P p i y E e q 9 :

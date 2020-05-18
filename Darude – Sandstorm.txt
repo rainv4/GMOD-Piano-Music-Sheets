@@ -1,0 +1,17 @@
+aaaaa -- d - aaaaa -- p -
+aaaaa -- d - aaaaa -- p -
+[uoa][uoa][uoa][uoa][uoa] -- [oad] - [uoa][uoa][uoa][uoa][uoa] -- [yp] -
+[uoa][uoa][uoa][uoa][uoa] -- [oad] - [uoa][uoa][uoa][uoa][uoa] -- [oad] -
+
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [oad] [oad] :
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [oad] [oad] :
+[uoa][uoa][uoa] [oad] [oad] [uoa][uoa][uoa] [oad] [oad] :
+[uoa][uoa][oad] [uoa][uoa][oad] [uoa][uoa][uoad][uoad][uoad][uoad][uoad] [m~s] :
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [uoa] : 
+[osf][osf][osf] [oad][oad][oad] [yp] :
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [uoa] [osf] :
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [uoa] [osf] :
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [uoa] : 
+[osf][osf][osf] [oad][oad][oad] [yp] :
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [uoa] [osf] :
+[uoa][uoa][uoa] [uoa] [uoa] [uoa][uoa][uoa] [uoa] [osf] :

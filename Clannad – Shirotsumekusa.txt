@@ -1,0 +1,15 @@
+5 9 w 9 r 9 5 9 w 9 r 9 :
+[5d] 9 [wh] 9 [rj] 9 [5k] 9 [wh] 9 [rd] 9 [8f] w t w u w 8 w t w u w :
+[5d] 9 [wh] 9 [rj] 9 [5k] 9 [wh] 9 [rx] 9 [8z] w t w u w 8 w t w :
+[ux] w [7z] Q [rG] Q [yG] Q [7G] Q r Q :
+[yf] [QG] [6h] 0 [ej] 0 [tk] 0 [8j] w [th] w [ol] w [9k] e y e :
+[ok] [el] [9z] e [yd] e [IG] e [5h] 9 w 9 r 9 5 9 w 9 r 9 :
+[5d] 9 [wh] 9 [rj] 9 [5k] 9 [wh] 9 [rd] 9 [8f] w t w u w 8 w t w u w :
+[5d] 9 [wh] 9 [rj] 9 [5k] 9 [wh] 9 [rx] 9 [8z] w t w u w 8 w t w :
+[ux] w [7z] Q [rG] Q [yG] Q [7G] Q r Q :
+[yf] [QG] [6h] 0 [ej] 0 [tk] 0 [8j] w [th] w [ol] w [9k] e y e :
+[ok] [el] [9z] e [yd] e [IG] e [5sh] 9 w 9 t 9 [5a] 9 w 9 :
+[rx] 9 [8z] w y w [uh] w [8h] w y w [ux] w [7z] Q T Q [yj] Q [7k] Q T Q :
+[yz] Q [6h] 0 r 0 [tf] [0h] [6l] 0 [rk] 0 [th] 0 [5d] 9 w 9 [rh] [9j] [5k] 9 w e :
+[rx] y [8z] w y w [uh] w [8h] w y w [uj] w [7G] Q [rh] Q [yj] Q [0k] r y r :
+[Oz] r [6h] 0 r 0 [tf] [0h] [6l] 0 [rk] 0 [th] 0 [9osj] e y e o e [I9s] 6 9 0 Q e

@@ -1,0 +1,97 @@
+9 9 9 
+[8e] e e e 
+8 r 
+[9e] w 
+[5w] w 
+[5w] y r 
+5 w 
+[8t] r r 
+[8w] 9 
+[5e] r e 
+5 w w 
+5 7 
+9 w w 
+[5y] y y y 
+5 r 
+[9e] w r 
+9 9 9 
+[8e] e e e 
+8 r 
+[9e] w 
+[5w] w 
+[5w] y r 
+5 w 
+[8e] w r 
+8 e e 
+9 w e 
+9 r 
+[9e] 8 9 
+8 9 
+[5y] y y y 
+5 y u 
+[9y] e 
+9 w r e 
+[8e] w 
+[8e] 0 w 0 
+8 0 
+w 0 w 0 
+[5w] y 9 y 
+[5y] y y 
+[5wyu] [wy] 
+5 [wyo] 
+9 [ey] [et] 
+9 [er] 0 
+8 0 y y 
+[8y] w w 
+8 Q w 
+8 r t 
+[9y] 9 
+[9y] [eyu] 
+[9eyI] 
+[7ro] 5 
+[3wro] 7 3 0 
+3 w 3 r 
+8 0 [8w] 0 
+[8e] 0 [5wr] 9 
+5 [wt] [5wr] 9 
+[5wt] 9 [5e] 9 
+[5w] [5Q] 
+[5e] [5e] w 
+3 7 3 0 
+3 w 3 r 
+8 0 8 w 
+[8to] w [8tI] [to] 
+8 0 [8y] y 
+8 [wt] 9 [wr] 
+9 [wt] 9 [wy] 
+9 [wyI] 9 [wro] 
+3 7 3 0 
+3 w 3 r 
+8 0 [8w] 0 
+[8e] 0 [5wr] 9 
+5 [wt] [5wr] 9 
+[5wt] 9 [5e] 9 
+[5w] 9 [5w] 9 
+[5e] 8 0 
+[8wr] 0 [8wt] [wr] 
+8 0 [8wt] [wr] 
+8 w 8 0 
+8 8 0 
+[8wr] 0 [8wt] [wr] 
+8 0 [8wt] 0 
+[8wy] 0 8 
+[8w] [8Q] Q 
+3 7 [3w] 
+[3Q] w 8 
+8 0 
+w y 6 
+6 9 
+e y 9 
+9 w 9 
+[9w] [3Q] Q 
+3 7 [3w] 
+[3Q] w 8 
+8 0 
+w [9y] 
+9 9 9 
+[9ey] 

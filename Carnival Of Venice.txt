@@ -1,0 +1,13 @@
+o 
+
+[8p] w o [8i] w u [5i] y w 5 
+[wy] u [7i] w I [9p] w o [8u] { [0w] [0w] } 5 [0w] 
+
+o [8p] w o [8i] w u [5i] y w 5 [wy] u 
+[7i] w I [9p] w o [8t] 0 w 5 
+
+o [8p] w o [8i] w u [5i] y w 5 
+[wy] u [7i] w I [9p] w o [8u] { [0w] [0w] } 5 [0w] 
+
+o [8s] w o [8o] [wi] u [5i] y w 5
+[wy] u [7i] w o [9p] w o [8t] 0 w [80wt]

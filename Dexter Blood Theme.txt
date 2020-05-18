@@ -1,0 +1,40 @@
+(%)? [W%] r W  
+(%)? [W%] E W  
+(3)? [3W] r W  
+(3)? [3W] E W  
+(%)? [W%] r W   O a O  
+(%)? [W%] E W   O P O  
+(3)? [3W] r W   O a O  
+(3)? [3W] E W   O P O 
+
+[%?] W [rCG] W [fx] W r W 
+[%?] W [ZDE] W [dz] W E W 
+[3?] W [rCG] W [fx] W r W 
+[3VH?] W [BJE] W W [knE] W 
+
+[%?] W [rCG] W [fx] W r W 
+[%?] W [ZDE] W [dz] W E W 
+[3?] W [rCG] W [fx] W [rZD] W [3ak?] W [ufE] W W [DYE] W 
+
+[%?] W r W H W r W k W r W Z W r W 
+[3dz?] W r W h w r w k W r W C W r W 
+[%?] W r W H W r W k W r W Z W r W 
+[3dz?] W r W h w r w k W r W C W r W 
+
+[%?] W [rCG] W [fx] W r W 
+[%?] W [ZDE] W [dz] W E W 
+[3?] W [rCG] W [fx] W r W 
+[3VH?] W [BJE] W W [knE] W 
+
+[%?] W [rCG] W [fx] W r W 
+[%?] W [ZDE] W [dz] W E W 
+[3?] W [rCG] W [fx] W [rZD] W [3ak?] W [ufE] W W [DYE] W 
+
+(%)? [W%] r W  
+(%)? [W%] E W  
+(3)? [3W] r W  
+(3)? [3W] E W  
+(%)? [W%] r W   O a O  
+(%)? [W%] E W   O P O  
+(3)? [3W] r W   O a O  
+(3)? [3W] E W   O P O 

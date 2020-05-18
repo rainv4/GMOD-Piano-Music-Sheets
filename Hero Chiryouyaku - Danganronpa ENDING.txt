@@ -1,0 +1,58 @@
+[QTep] 
+I a I S a I [Teup] I a I S a I [YIrp] 
+I a I S a I [iTOS] O f O S a T [QTep] 
+I a I S a I [Teup] I a I S a I [YIrp]
+I a I S a I {[iTOS][IG]} I G I [$IG] 
+[$I] [*S] [QI] {[$f]Gf[QS]} [*f] [6IG] 
+[6I] [0S] [eI] {[I6a]Sa[ep]} [0I] [7IG] 
+[7I] [QS] [rI] {[7f]Gf[rS]} [Qf] [*pj] 
+[*H] j [WH] [TG] [*g] [TG] [WH] [$GC] 
+[$G] [*L] [QG] {[$x]Cx[QL]} [*x] [6GC] 
+[6G] [0L] [eG] {[G6k]Lk[ej]} [0G] [7GC] 
+[7G] [QL] [rG] {[7x]Cx[rL]} [Qx] [*jb] 
+! [*V] b [WV] [TC] [*c] [TC] [WV] [$GC] 
+[6ep] [7ra] [8ts] 1 [*TS] ! [0uf] 3 [QIG] $ [!*pj] [$IG] 
+[6ep] [7ra] [8ts] 1 [*TS] ! [0uf] 3 [!*TS] [7ra] [6ep] [$QI] 
+[6ep] [7ra] [8ts] 1 [*TS] ! [0uf] 3 [QIG] $ [!*pj] [$IG] 
+[6ep] [7ra] [8ts] 1 [*TS] ! [0uf] 3 [!*TS] [7ra] [6u] [$I] -
+
+u I u I u I p u I u I u I S a a S a p u 
+[eTI] [$u] [eTI] [$u] [eTI] [$u] [$p] [e$TI] 
+[$u] [eTI] [$u] [eTI] [$p] [Ta] [$S] a [$p] [TI] $ u [e$TI] 
+[7u] [e*I] [%u] [6eI] [3u] [e$I] [!p] [e$I] 
+[*u] [0I] [7u] [e*I] [7S] [6ua] [$ua] [%a] [6S] [6a] [%p] [3u] [e$TI] 
+[7u] [e*I] [%u] [6eI] [3u] [e$I] [!p] [e$I] 
+[*u] [0I] [7u] [e*I] [7S] [%ua] [$S] [%f] [6S] [TI6a] [I2ya] 
+[2p] [6a] [9p] [2a] [9S] [6f] [i!OS] [!ia] [*ip]  [*u]  [e$TI] 
+[*TS] [$Ta] [*Tp] [$TIa] [$S] [*a] [Qp] [$TI] [ru] 
+[rI] [$I] [7up] [$I] [I1tp] [I1ta] [$Ita] [8p] [I1tp] [!Oia] 
+[i!S] [i%S] [*a] [i!S] [*S] [%a] [i!OS] -
+
+
+
+[iOS] [Oif] S 
+[p$SG] [p$SG] [p*SG] [Qf] [p$SG] [pQSG]
+[*j] [6pG] [6pf] 0 [epS] 6 [ep] [0S] [I7a] 
+[I7p] [Qa] [rp] [7a] [rS] [Qf] [i!*OS] 
+[!*Ois] [!*ia] [!*I] S [$TI] 
+[$TI] [*S] Q [$TI] Q [*S] [6TI] 
+[T6p] 0 [Tea] 6 [eS] 0 [I7a] 
+[7p] [Qa] [rp] [7a] [rS] [Qf] [i!OS] 
+[i!OS] [i%OS] [i*OS] [!Oif] * [%S]
+[p$SG] [p$SG] [p*SG] [Qf] [p$SG] [pQSG] 
+[*j] [6pG] [6pf] 0 [epS] 6 [ep] [0S] [I7a] 
+[I7p] [Qa] [rp] [7a] [rS] [Qf] [i!*OS] 
+[!*Ois] [!*ia] [!*I] S [$TI] 
+$ * [QI] [$Tp] Q [*S] [6ua] 
+6 0 [ea] [6S] e [0G] [I7af] 
+[7aIG] [aQIG] [rf] [7aIG] a [i!*OS] -
+
+[!a] S a p [$IG] 
+[$I] [*S] [QI] {[$f]Gf[QS]} [*f] [6IG] 
+[6I] [0S] [eI] {[I6a]Sa[ep]} [0I] [7IG] 
+[7I] [QS] [rI] {[7f]Gf[rS]} [Qf] [*pj] 
+! [*H] j [WH] [TG] [*g] [TG] [WH] [$GC] 
+[$G] [*L] [QG] {[$x]Cx[QL]} [*x] [6GC] 
+[6G] [0L] [eG] {[G6k]Lk[ej]} [0G] [7GC] 
+[7G] [QL] [rG] {[7x]Cx[rL]} [Qx] [*jb] 
+! [*V] b [WV] [TC] [*c] [TC] [WV] [$QGC] - $

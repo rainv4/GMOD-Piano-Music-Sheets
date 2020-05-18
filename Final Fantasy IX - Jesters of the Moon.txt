@@ -1,0 +1,20 @@
+6 [tp] [6tp] 4 [ei] [5ro] 5 ^ [6pY] u [0e] [af] s [6p] u [4i] u [qi] s [5a] [wo] 
+6 [tp] [6tp] 4 [qtp] [3ya] 0 [sY@] [sY@] [aI$] [pI$] [3uO] u y r 
+
+6 0 6 [0sD] f 6 [0sO] p [6oY] y [0t] 6 [jD] [0f] p [6d] s [0p] o [6uo] [oY] [0yo] [6t] e [0w] 0 
+[6p] p a [3s] p [4ti] 5 u [6p] [6pg] [5pf] [4p] [3dO] [3sO] $ [aO%] 
+[6p] p a [3s] p [4ti] 3 u [Y@] [sY@] [aY$] [6pY] [3up] [uO$] % 
+[6p] p a [3s] p [4ti] 5 u [6p] [6pg] [5pf] [4p] [3dO] [3sO] $ [aO%] 
+[6p] p a [3s] p [4ti] 5 u [6tp] [5t] [y$] [4Y]   [3u] [6e] 
+[6p] p a [3s] p [4ti] 5 u [6p] [6pg] [5pf] [4p] [3dO] [3sO] $ [aO%] 
+[6p] p a [3s] p [4ti] 3 u [Y@] [sY@] [aY$] [6pY] [3up] [uO$] % 
+[6p] p a [3s] p [4ti] 5 u [6p] [6pg] [5pf] [4p] [3dO] [3sO] $ [aO%] 
+[6p] p a [3s] p [4ti] 5 u [6tp] [5t] [y$] [4Y]   [3u] [6e]   [eri] [ruW] 
+
+[7r]   [8t]   [9y] [8t] [7r] [6e] [W%]   [eri] [ruW] 
+[7r]   [8t]   [9y] [8t] [9y] [Y(] [0u]   [3yoW] 
+
+p [ets] p [etu] p [ets] [qpD] w W [ep] [ets] D [etg] f [ets] [0yO] u 
+p [ets] p [etu] p [ets] [tpDQ]   [0f] [D(] [0d] [qS] [sQ] [wa] [OW] 
+p [ets] p [etu] p [ets] [qpD] w W [ep] [ets] D [etg] f [ets] [0yO] u 
+p [ets] p [etu] p [ets] [qpD] w W { [0yf] D f g f [0d] [sQ] [aW] [ep] [yu] [tI] [rO] [ep] }

@@ -1,0 +1,10 @@
+2  q  0  6  2  q  0  6  2  q  0  6  2  q  0  6  2  q  0  6 
+[2pj]  q  0  6  2  [qoh][pj][0PJ]  6 [sl][2pj]  q  0  6  2  q  0  [6pj]
+[2oh]  q  0  6  2  [qpj]  [0ig]  6 [uf][2yd]  q  0  6  2  q  0  6
+
+[2epj]  [qE]  [0e]  [6y]  [2e]  [qEoh][pj][0ePJ] [6y] [sl][2epj]  [qE]  [0e]  [6y]  [2e]  [qE]  [0e]  [6ypj]
+[2eoh]  [qE]  [0e]  [6y]  [2e]  [qEpj] [0eig] [6y] [uf][2eyd]  [qE]  [0e]  [6y]  [2e]  [qE]  [0e]  [6y]
+
+[2e]  [qEz]  [0eZ]  [6yz]  [2e]  [qEz]  [0eZ]  [6yz] 
+[2e]  [qEz]  [0eZ]  [6yz]  [2e]  [qEz]  [0eZ]  [6yz]
+[2e]  [qEz]  [0eZ]  [6yz]  [26ey]

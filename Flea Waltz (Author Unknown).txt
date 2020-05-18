@@ -1,0 +1,15 @@
+YTQ [EI] [EI] YTQ [EI] [EI] :
+YTQ [EI] ( [EI] * [ri] [ri] :
+YT* [ri] [ri] YT* [ri] [ri] :
+YT* [ri] ( [ri] Q [EI] [EI] :
+YTP [EI] [EI] YTP [EI] [EI] :
+YTP [EI] S [EI] D [ri] [ri] :
+YTD [ri] [ri] YTD [ri] [ri] :
+YTD [ri] S [ri] P [EI] [EI] :
+YTQ [EI] * [EI] Q [EI] * [EI] :
+I i I o O -- YTW [ri] * [ri] W [ri] * [ri] :
+O o O p P -- YTQ [EI] [EI] YTQ [EI] [EI] :
+YTQ [EI] ( [EI] * [ri] [ri] :
+YT* [ri] [ri] YT* [ri] [ri] :
+YT* [ri] ( [ri] Q [EI] [EI] -
+I TTy T - [ri] [EI]

@@ -1,0 +1,49 @@
+[do] h l [ft] h l   [gs] h 
+[do] h l [ft] h l   [gs] h 
+[do] h l [ft] h l   [gs] h 
+[do] h l [ft] h l   [gs] h [xo] 
+
+s s s o s f [dw8]   f   [8w] [8w]   [8w] 
+s s o s f [dw7]   [7w] [7w]   7 
+s s o s f [gq6] f s 
+o g f [s06] 
+s s o s f [h95]   [59] [59]   5 
+
+h h g f g { [hteq] s } [teq] 
+s   [dtw0] { f s } [tw0] 
+d [fr0W] { d s } [dr0W] f [j06]   e 0 [e9Q] 
+
+s s s o s f { [d29] f }   [30] [4q] [5w] 
+s s s s o s f { [dW%] s }   [9y] [7r] 
+[s9y] a   [s18] o s u o s i o 
+y o s u o s i o 
+y o s u o s i o 
+y o s u o s i o f 
+
+s s s o s f [dw8] [fw8] [w8] [w8] [w8] 
+s [sw8] s [sw8] o [sw8] f [dw7] [w7] [w7] [w7] [w7] 
+s [sw7] s [sw7] o [sw7] f [gq6] f [sq6] [q6] 
+o [sq6] f [g06] f [s06] s [s06] o [s06] f [h95] [95] [95] [95] [59] 
+
+h h g { [f6] 7 [g8] 9 [hteq] s } [teq]        -or-      h h g [f6] [g8] [hteq] s    [teq]
+
+p s [dtw0] f s [tw0] d [fr0W] d s [dr0W] f [je06] 
+[d9eQ] p d p d p d p [s8w]   o 
+
+y o s u o s i o 
+y o s u o s i o 
+y o s u o s i o 
+y o s u o s i o f 
+
+s   o s f [d8w] f   8   8 
+s s [s8] o s f [dw7]   7   7 
+s s s [s7] o s f [g6q] f s   6 
+o s f [g60] f s 6 
+s f s [h59] 
+h h g f g { [hteq] s } [teq] 
+p s [dtw0] { f s } [tw0] 
+[fr0W] { d s } [dr0W] f [j60] 
+
+s s s o s f d f [w08] [8qe] 
+l l l l h l x z l [eq8] [rw9] 
+l k { [sl8] 0 w t }

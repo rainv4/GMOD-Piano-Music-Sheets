@@ -1,0 +1,19 @@
+e [te6]   [y7] [u8]   I u 
+[y7]   r [w3]   e r 
+[te6]   e [e4]   W e 
+[r3]   W [03] 
+
+e [te6]   [y7] [u8]   I u 
+[y7]   r [w3]   e r 
+[te6]   r e   [3W]   Q W 
+[e6]   e [e6]   
+
+[ot8]   [ot8]   I u 
+[y7]   r [w3]   e r 
+[te6]   e [e4]   W e
+[r3]   W [03] 
+
+[ot8]   [ot8]   I u 
+[y7]   r [w3]   e r 
+[te6] r e [3W]   Q W 
+[e6] e [e6]

@@ -1,0 +1,7 @@
+p [6s]   d f   g f 
+[5d]   a o   p a
+[4s]   p p   O p 
+[3a]   O u 
+p [6s]   d f   g f
+[5d]   a o   p a 
+s a p O   I O   p

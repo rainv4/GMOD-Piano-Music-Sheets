@@ -1,0 +1,115 @@
+[?5] [ry] e 
+[?$] [ey] w 
+[?3] [wy] Q 
+[?9] w Q 9 
+[?9] 0 w r 
+[?9ey] w Q w 
+[?5r] 9 w [ry] 
+[?9ry] e w 
+[?5wy] r e r 
+[?$Qy] r e r 
+[?30r] r y u y 
+[?9ey] r 
+[?8t] [ry] u 
+[?9e] w Q 
+[?5w] [?w] ? 
+[?r] 9 [?e] w 
+[?5wy] r e r Q 
+[?$Qy] r e r 
+[?30r] 0 r y u y 9 
+[?9ey] r 8 
+[?8t] [ry] u 
+[?9e] w Q 
+[?5w] 9 0 [?wo] [?e] 
+[?r] ? [?y] ? a 
+[?8] 0 w t 
+[?u] [?t] w t I 
+[?0] w r y y 
+[?0] [?w] r y 
+[?0] u w e y ? 
+[?T] ? e o 
+[?tu] a p a 
+[?rya] f f d d [?a] ? a 
+[?8o] 0 [tu] r 
+? [?e] [?w] ? I 
+[?0] w y r y 
+[?u] ? y ? ? p 
+[?q] e u t 
+[?q] [?e] [?u] t 
+[?9] p e y [oa] ? p 
+[?Ip] 
+[ry] [6eo] [wI] [Qu] [9I] 
+[?5wo] [ry] [?w] 
+[?$QI] [ey] Q 
+[?30u] [wr] [?0] 
+[?9y] [Qe] 9 
+[?8t] 0 w 
+? [?9y] 
+[?5o] w [es] [wa] p [?o] [?Q] 
+[?9wry] Q a 9 ? a f o 
+[?5] [oa] [Ip] 3 d I 
+[2$] [Ip] [uo] 2 u o 
+3 [wuo] [ep] [I2ra] [1yd] y I 
+[?9] o I w p e a r [tu] D Y f u u 
+[18] 9 0 w 
+? ? [9wy?I] w o 
+[?5oa] w r e [?w] ? r y 
+[9y?I] e [ry] [weo] [ra] 
+[?5wyod] [ry] [wyd] [uf] 
+[?$QIG] [yd] [ra] [eyd] [uf] [Qra] 
+[?30u] [wr] ? [?0ep] [?wo] 
+[9y?QI] [QI] [ep] [eQI] [9y] y i 9 9 y i 9 
+[?8t] 0 w y [yd] 
+[ra] [ep] [wo] [oh] [9y?IG] [yd] [ra] [yd] 
+[?5wra] 9 0 [wo] e 
+[?r] [?wo] [ep] [yd] [wo] [?ra] [5oh] a 
+[?8uf] 0 w t 
+[?u] [?t] w [?t] I 
+[?0] w r y y 
+[?0] [?w] r [?y] ? 
+[?0] u w e [6y] 
+[?T] 6 e ? 6 o 
+[?tu] 1 a [?p] 1 a 
+[?rya] f [2f] d d [?a] 2 a 
+[?8o] 0 [tu] r 
+? [?e] [?w] ? I 
+[?0] w y r y 
+[?u] ? y ? ? p 
+[?q] e u t 
+[?q] [?e] [?u] t 
+[?9] p e y [oa] ? p 
+[?Ip] [af] 
+[0u] d [9y] p a [?7r] [?6e] p 
+[?5wo] o [ry] ? [?w] 
+[?$QI] [ey] ? [?Q] f 
+[?30u] [wr] [?0] d 
+[?9y] [Qe] ? [?9] a 
+[?8t] 0 w [?y] ? 
+? p [?9y] a 
+[?5] e w w ? [?Q] Q 
+[?9wry] a [?9] [ra] 9 f u a r t s d 
+[?5wo] [ry] w 
+[?$QI] [ey] f h j Q h f 
+[?5wtu] [wtu] 5 
+[?wry] k [wry] z 5 h 
+[18t] [0p] w 
+1 j [?9y] k 
+[?5] e w ? [?Q] 
+[?9wry] [ad] j k 9 p 2 a z 9 p 2 a f o 
+[?5h] [okx] a [oa] [Ip] 3 [dz] I 
+[2$] G j [Ip] [uo] 2 u [ok] 
+3 f h [wuo] [wo] p e [2ryI] a y [1y] d y [Ij] 
+[9?G] d o w [yI] p e r [ra] [tu] e y d u h 
+[18] w 9 0 w 
+? ? [?I9wyj] w o k 
+[?5oa] w r e [?w] ? r y 
+[9y?I] a e [ry] [aj] p e a f o o 
+[?5h] [kx] [oa] [Ip] 3 [dz] I 
+[2$] G j h [Ip] G [uo] d 2 u [ok] 
+[3a] f h [wuo] [wo] e e p [2ryI] a [1y] y d z 
+[?9] k 9 7 
+h w [8t] u 
+9 e 
+y I 
+? 
+w 5 

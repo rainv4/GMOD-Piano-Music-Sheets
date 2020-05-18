@@ -1,0 +1,39 @@
+g G g S s S l H 
+s S s O o O D s   { s S s }  P s 
+S P H   S P H   { H J H }   G J 
+H S l   H S l   { l L l }   J l 
+
+[gi] [IG] [gi] [TS] [st] [TS] [ls] [OH] 
+[st] [TS] [st] [WO] [ow] [WO] [YD] [st]   { [st] [TS] [st] }   [EP] [st] 
+[TS] [EP] [OH]   [TS] [EP] [OH]   { [OH] [PJ] [OH] }   [IG] [PJ]   
+[OH] [TS] [ls]   [OH] [TS] [ls]   { [ls] [SL] [ls] }   [PJ] [ls] 
+
+L G g   L G g   { L Z L }   l L 
+l H D   S s S H G g   D g 
+D P g   D P S   s S s   g G 
+H g g   G H g   G H l 
+
+[SL] i [IG] [gi]   [iSL] [IG] [gi]   [SIL] [DOZ] [SIL]   [lis] [SIL] 
+[lsI] [iOH] [tYD]   [TOS] [stI] [TS] [OH] [IG] [gi]   Y [ID] 
+[TS] [st] [EP]   [TS] [st] [EP]   [gi]  { [YD] [gi] [YD] }  [gi] [TS] 
+
+i Y T   i Y T   O 
+g G g S s S l H { I O P D S s S O }
+s S s O o   [IO] [OD] [sI]   [sP] S s [OP] I [si] I 
+[YS] P H   [TS] [YP] [iH]   { [IH] [OJ] [IH] [iG] [TJ] 
+[tH] [ES] [li?]   [tH] [ES] [lO]   [lO] [PL] [lO] [IJ] [li?] 
+
+[giO] [IPG] [giO] [TIS] [sit] [TIS] [lgs] [sOH] 
+[st] [TS] [st] [WO] [ow] [WO] [YOD] [st] O [stI] [TS] [stO] [EIP] [sit] 
+[TIS] [EYP] [OSH]   [TIS] [EYP] [gOH] [gOH] [PGJ] [gOH] [IDG] [PSJ] 
+[sOH] [TPS] [lgs] [OH] [TS] [ls] [ls] [SL] [ls] [PJ] [ls] 
+
+L G g   L G g   { L Z L }   l L 
+l H D   S s S H G g   D g 
+D P g   D P S   s S s   g G 
+H g g   G H g   G H l 
+
+[SL] i [IG] [gi]   [iSL] [IG] [gi]   [SIL] [DOZ] [SIL]   [lis] [SIL] 
+[lsI] [iOH] [tYD]   [TOS] [stI] [TS] [OH] [IG] [gi]   Y [ID] 
+[TS] [st] [EP]   [TS] [st] [EP]   [gi]  { [YD] [gi] [YD] }  [gi] [TS] 
+[gi] [YD] [TS]   [gi] [YD] [TS]   [OD] [sI] [iS]   [gO] [ID] [iS]   [sH]

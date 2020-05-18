@@ -1,0 +1,78 @@
+^ ( E [wY] - i - o | % * W [qT] - i - O |
+% ( W [qT] - i - O | ^ ( E [wY] - i - o -- i - Y --
+^ ( E [wY] - [qi] - [wo] -- O P D O P D :
+% * W [qT] - [wi] - [WO] -- D g H h g D :
+% ( W [qY] - [wi] - [WO] S - s P - O - P : 
+^ ( E [wY] - i - o - [ts] [EP] [ts] [TS] [ts] [TS] [YD] :
+[^H] ( [EOh] [YPwg] - [qiOD] P [woH] -- [Wh] [Eg] Y [WD] E [YH] :
+% * [WDh] [qgTH] - [wiJ] - [WOg] -- Y i [Oh] [oH] [iJ] Y :
+[%H] ( W [wY] - [iWD] - [OD] - T t E g [WD] g w :
+[^h] ( E [wY] - [iD] - [oD] - s P s [w(YS] [sD] [Sg] [Dh] :
+[^H] ( [Eh] [Ywg] - [qiD] - [woH] -- [WOh] [EPg] Y [WOD] [EP] [YH] :
+% * [Wh] [qTH] - [wiJ] - [WOg] -- [YD] [ig] [Oh] [oH] [igJ] [YD] :
+[%H] ( W [wY] - [iWD] - [OD] - T t E g [WD] g w :
+[^h] ( [ED] [wYD] - i o [Os] S o [Os] P [wEYOS]-sHO : 
+[P4h] 8 E Y - i q [Oqg] [Og] -- a[@h] P O :
+[o!H] % W T - Y [*OS] i - O i D [(5og] h J -
+[%OH] ( W E - W E t -- [w(Y] -- % ( W E - W E t |
+[%O] ( W E - [WO] [EP] -- [ts] - [8Y] ( [%P] s -
+[^S] * [qD] [ES] - [WYs] - [iP] [i%P] ( W T [^s] q W t :
+[*S] q [ED] [TS] - [WYs] - [iEP] * q w W 8 [(EP] s ^ :
+[*S] - [qD] [TS] - * q [Ts] [5TS] ( [ws] P [%t] [qO] [Ei] o :
+[%O] ( W E - [tWO] P [Yts] ( w E t ( [%YP] [qs] w :
+[^S] * [qD] [ES] - [WYs] - [iP] % ( W T [^s] q W [tY] :
+[*S] q [ED] [TS] - [WYts] - [iETP] * q w [Wo] [8O] [(EYP] s ^ :
+[*S] - [qD] [TS] - * q [sTS] [5SD] ( [wsS] [Ps] % [qo] E O :
+^ [qT] [wi] [Eo] [tYO]-Yq [wo] Y <[*o]O> q E T o O -
+[%YP] 8 w E o - [tO] w t [Eo] w E i [wi] [Yo] -
+[^PD] [*OS] [qos] [EOS] [qi] * q E [PD] i [sg] q [ESh] Y w T P :
+[%Ys] 8 w [EY] - q w [EY] <[qs]S>[ws] [EYS] ['td] w [tS] * [ws] :
+[^S] * q <[Tf]g> - [qD] E [TS] [Ywg] [qh] [EH] [iD] - [Tg] - h : 
+[%ts] ( w [Wt] - [(S]D[wg]h[tH]J[(l] w [tWJ] [ETH] - [Wh] t - 
+[^SJ] [*D] [qg] [WTSJ] * q W [Tl] [tL] * [qL] [El] Y J - H :
+% 8 ( W t - ( [wf]g[WD] S s P 8 [(O] [qO] [woP] :
+[%Os] ( W E - W [ES] [ts] S D [8Y] D ( [t%P] s -
+[^S] * [qD] [ES] - [WYs] - [iP] % ( W T [^s] q W t :
+[*S] q [ED] [TS] - [WYs] - [iEP] * q [wP]s[WS]D[8g] [(E] - <[^d]D> : 
+* S [qs] [TS] - * q [Ts] [5TS] ( [ws] P [%t] [qO] E P :
+[%s] ( W E - [Wt] S Y [(D] w E t ( [%YP] [qs] w :
+[^S] * [qD] [ES] - [WYs] - [iP] % ( W T [^s] q W [tY] :
+[*S] q [ED] [TS] - [WYs] - [iEP] * q w W [8T] [(EYP] s ^ :
+[*S] - [qD] [TS] - * q [Ts] [5TS] ( [ws] P [%t] [qO] W [wP] :
+[4i] 8 q W E Y o - [1iO] -- Y - T - o :
+[4ti] 8 q W E Y o - [1TO] -- Y - [Wo] O -
+[$P] * Q t T I s - [!S] --- D - P $ * Q t - T I s - [!S] -- D -- 
+[4ig] 8 q W E Y [oh] - [1OH] -- Y - T - [oh] :
+[4ig] 8 q W [ED] Y o - [1OS] -- Y s [To] O t :
+[^PS] q E T Y O [sD] [!Sg] --- [PS] [sD] - 
+[*Sg] q W T i P [Dh] - [f^H] * 0 W [*TDh] O -- 
+[s%H] 8 ( E - t - Y -- @ --- ^ ( E Y - o - P @ |
+% ( W t - Y - O---1 -- ! * W T - o - O @ -- 4 --
+% ( W t - Y - O | ^ ( E Y - o - P |
+$ * Q E - T - I ! | % * W T - Y - i [4%] - Y - T -- 
+[^H] ( [Eh] [Ywg] - [qiD] - [woH] -- [Wh] [Eg] Y [WD] E [YH] :
+% * [Wh] [qTH] - [wiJ] - [WOg] -- Y i [Oh] [oH] [iJ] Y :
+[%H] ( W [wY] - [iWD] - [OD] T - t E g [WD] g - 
+[^h] ( E [wY] - [iD] - [oD] - s P s [wEYS] D [Pg] h :
+[^OH] ( [Eh] [Ywg] - [qiD] - [woH] -- [Wh] [EPg] [WO] D [EP] H :
+[%O] * [Wh] [qTH] - [wiJ] - [WOg] -- Y i [oh] [OH] [iPJ] Y :
+[s%H] ( W [wY] - [iWOD] - [OD] T t E [Og] [WPD] [sg] -
+[^Ph] ( [oED] [woYD] - i o [Os] S o [Os] P [wEYOS] - aHO :
+[P4h] 8 E Y - i [qh] [Oqg] -- [@oh] -- 
+[o!H] % W T - Y [*S] i -- D [(5og] h J -
+[%OH] ( W E - W E t -- @ -- 
+^ q W E - W E Y [9y] q [Es] y [5S] t H W :
+[4h] w E Y - t q [ig] --- [@oh] -- 
+[o!H] % W T - Y [*TS] o i -- D [(5og] h J -
+[%OH] ( W E - W E t -- @ -- % ( W E - W E t |
+% ( W E - W E t | [^T] * q E - [WY] - [Ei] --
+^ q W t [*T] q E T - [WY] - [Ei] | 
+Y [%*T] - q T - * q T [5T] ( w - t q E -
+[%t] ( W E - [Wt] - Y ( w E t ( Y q w :
+[^T] * q E - [WY] - i % ( W t ^ q W [tY] :
+* q E T - [WY] - [Ei] * q w W [8T] [(E] - ^ : 
+[%*T] - q T - * q T [5T] ( w - [%t] q W - 
+% ( W E - W E t -- [8Y] - ( [%t] --
+[^T] * q E - [WY] - i % ( W T ^ q W t :
+* q E T - [WY] - [Ei] * q w W 8 [E8t] - ^ :
+[%*T] - q T - * q T [5T] ( w - [%t] q E - [%W]

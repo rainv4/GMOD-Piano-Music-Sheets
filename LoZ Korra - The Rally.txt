@@ -1,0 +1,89 @@
+r E E r r E E 
+r r E E W W [E%] E 
+[r%] r E E r r E E 
+r r E E W W [E%] E 
+[aW] a P P a a P P 
+a a P P O O [PW] P 
+[aW] a P P a a P P 
+a a P P O O [PW] P 
+[0Y] Y O O I I [0u] u 
+Y Y [0O] O I [0I] u u 
+[0Y] Y O O I I [0u] u 
+Y Y [0O] O I [0I] u u
+
+[aYW%] [aY] [PO] [POW%] [aY] [aY] [POW%] [PO] 
+[aY] [aYW%] [PO] [PO] [OIW%] [OI] [uPW%] [uP] 
+[aYW%] [aY] [PO] [POW%] [aY] [aY] [POW%] [PO] 
+[aY] [aYW%] [PO] [PO] [OIW%] [OI] [uPW%] [uP] 
+[30aY] [aY] [PO] [30PO] [aY] [aY] [30PO] [PO] 
+[aY] [30aY] [PO] [PO] [30OI] [OI] [30uP] [uP] 
+[30aY] [aY] [PO] [30PO] [aY] [aY] [30PO] [PO] 
+[aY] [30aY] [PO] [PO] [30OI] [OI] [30uP] [uP]
+
+[O%] W % W % W % W 
+% W % W % [DYW] [HO%] [akW] 
+[JP%] W % W % W % [HOW] 
+[JP%] W % [JPW] [HO] [JP%] W [ak%] W 
+[3oh] 0 3 0 [3HO] 0 3 0 
+[3oh] 0 [3HO] 0 [3pj] 0 [3JP] 0 
+[3ak] 0 [3sl] 0 [3LS] 0 [3dz] 0 
+[3fx] 0 [3ZD] 0 [3fx] 0 [3ZD] 0 
+% W % W % W % W 
+% W % W % [DYW] [HO%] [akW] 
+[JP%] W % W % W % [HOW] 
+[JP%] W % [HOW] [JP%] W [ak%] W 
+[3oh] 0 3 0 [3HO] 0 3 0 
+[3o] [0O] [3p] [0P] [3a] [0s] [3S] [0d] 
+[3D] [0f] [3g] [0G] [3h] [0H] [3j] [0J] 
+[3k] 0 [3J] 0 [3k] 0 [3J] 0
+
+[OW(%] D S [DW(%] a S [aW(%] P 
+O [DW(%] S D [aW(%] S [aW(%] P 
+[OW(%] D S [DW(%] a S [aW(%] P 
+O [DW(%] S D [aW(%] S [aW(%] P 
+[370O] D S [370D] a D [370P] D 
+O [370D] Y D [370u] D [370Y] D 
+[370O] D S [370D] a D [370P] D 
+O [370D] P D [370a] D [370P] D 
+[OW(%] D S [DW(%] a D [PW(%] D 
+O [DW(%] Y D [OW(%] D [YW(%] D 
+[YW(%] D u [DW(%] Y D [IW(%] D 
+O [DW(%] I D [OW(%] D [PW(%] D 
+[370O] D P [370D] a D [370P] D 
+O [370D] P D [370a] D [370P] D 
+[370O] D P [370D] a D [370P] D 
+O [370D] P D [370a] D [370P] D
+
+[Y%] [DW] [Y%] [DW] [u%] [DW] [u%] [DW] 
+[I%] [DW] [I%] [DW] [O%] [DW] [O%] [DW] 
+[3P] [0D] [3P] [0D] [3a] [0D] [3a] [0D] [3S] [0D] 
+[3S] [0D] [3f] [0D] [3f] [0D] [a!] [P*] 
+[a!] [P*] [S!] [a*] [S!] [a*] [D!] [S*] 
+[D!] [S*] [f!] [D*] [f!] [D*] [G@] [f(] 
+[G@] [f(] [H@] [G(] [H@] [G(] [J@] [H(] 
+[J@] [H(] [k@] [J(] [k@] [J(] 
+[HOW%] [W%] [HO] [HO] % [fHO] 
+[fHOW%] [HDO] [HDO] [HSOW%] [HSO] [HPO] [HPOW%] [aHO] 
+[HOW%] [W%] [HO] [HO] % [fHO] 
+[fHOW%] [HDO] [HDO] [HSOW%] [HSO] [HPO] [HPOW%] [aHO] 
+[30HO] [30] [HO] [HO] 3 [fHO] 
+[30fHO] [HDO] [HDO] [30HSO] [HSO] [HPO] [30HPO] [aHO] 
+[30aHO] [30] [HO] [30HO] [JP]
+
+[30JP] [ak] [ak] [30ak] [ak] [ak] [30JP] [JP] 
+[ak%?] [ak] [JP] [JPW%] [ak] [ak] [JPOW] [JP] 
+[ak] [akW%] [JP] [JP] [HOW%] [HO] [JPW%] [JP] 
+[ak%?] [ak] [JP] [JPW%] [ak] [ak] [JPOW] [JP] 
+[ak] [akW%] [JP] [JP] [HOW%] [HO] [JPW%] 
+[JP] [3ak?] [ak] [JP] [30JP] [ak] [ak] [0uJP] [JP] 
+[ak] [30ak] [JP] [JP] [30HO] [HO] [30JP] [JP] 
+[3ak?] [ak] [JP] [30JP] [ak] [ak] [0uJP] [JP] 
+[ak] [30ak] [JP] [JP] [30HO] [HO] [30JP] [JP] 
+[ak%] [ak] [JP] [JPW] [ak] [ak] [JP%] [JP] 
+[ak] [akW] [JP] [JP] [HO%] [HO] [JP%] [JP] 
+[ak%] [ak] [JP] [JPW] [ak] [ak] [JP%] [JP] 
+[ak] [akW] [JP] [JP] [HO%] [HO] [JP%] [JP] 
+[3ak] [ak] [JP] [0JP] [ak] [ak] [3JP] [JP] 
+[ak] [0ak] [JP] [JP] [3HO] [HO] [3JP] [JP] 
+[3ak] [ak] [JP] [0JP] [ak] [ak] [0JP] [JP] 
+[ak] [0ak] [JP] [JP] [0HO] [HO] [0JP] [JP]

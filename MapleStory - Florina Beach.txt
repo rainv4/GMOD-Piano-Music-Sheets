@@ -1,0 +1,6 @@
+s f [dh] g j [hl] k j [hk] j h [gj]
+s f [dh] g j [hl] k j [hk] j h [gj]
+[8s] f [dh] [9g] j [hl] [0k] [qj] [whk] [9j] [7h] [8gj] <jkgjkgjkgjk>
+[8s] f [dh] [9g] j [hl] [0k] [qj] [whk] [9j] [7h] [8gj]
+[8s] f [dh] [9g] j [hl] [0k] [qj] [whk] [9j] [7h] [8gj] <jkgjkgjkgjk
+[8s] f [dh] [9g] j [hl] [0k] [qj] [whk] [9j] [7h] [8gj]

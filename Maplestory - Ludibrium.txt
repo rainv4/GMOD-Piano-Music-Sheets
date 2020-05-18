@@ -1,0 +1,13 @@
+e 2 [eI] [eo] [3p] <ea> [eS] [2d] <eS> [ed] [3d] e [ea] [2p] e e
+3 e e 2 e e 3 e e 
+2 [eI] [eo] [3p] <ea> [eS] [2d] <eS> [ed] [3d] e [ea] [2p] e e
+3 e e 2 e e 3 e e
+3 [eu] [eI] [6o] <ea> [ed] [2f] e e [$d] e e
+[6S] <ed> [ef] [6a] e [eS] [2p] e e
+3 e e 2 e e 3 e e
+3 [eu] [eI] [6o] <ea> [ed] [2f] e e [$d] e e
+[6S] <ed> [ef] [6a] e [eS] [2p] e e 6 e e 
+3 [eu] [eI] [6o] <ea> [ed] [2f] e e [$d] e e
+<[6d]d[ed]d[ef]> [6a] e [eS] [2d] e e 6 e e
+2 [eI] [eo] [6a] e [ep] [2p] [eG] [eh] [6k] e [ej]
+[2j] [eI] [eo] [6a] e [ep] [2p] [eG] [eh] [6k] e [ej] [rdG]

@@ -1,0 +1,30 @@
+T - T - y - y - T - T - y - [yu]
+p T - [Tu] p T - [Tu] p [Ta] S ['td] f T p T
+[yG] f [yd]S [rd] a [rO]p T - T
+[Tp] a [TS] d y S y a r - [ru] 
+[6p] T - [Tu] [%p] T - [Tu] [$p] [Ta] S ['td] [3f] T p T
+2 [yG] f [yd]S3 [rd] a [rO]p6 T - T
+6 [Tp] a [TS] [9d] y S y [0a] r O r
+[6p] T 3 T 6 T - T [*f] [TG]f-T [8f] [tG]f t
+[7f] [yd] S [yd]f0 r - [9r] [*f] [TG]f-T [8f] [tG]f t
+[7f] [yG] H [yG]f3 r f [rS] [9p] e [2a] e [@S] r G r 
+[3f] r - r 3 r - r [3f][3f][3f][3f][3f] -- u
+[6p] T 3 [Tu] [%p] T 3 [Tu] [$p] [Ta] [6S] ['td] [3f] T [6p] T
+2 [yG] [6f] [yd]S3 [rd] [3a] [rO]p6 T 3 T
+6 [Tp] a [TS] [9d] y [9S] y [0a] r $ [ru]
+[6p] T 3 [Tu] [%p] T 3 [Tu] [$p] [Ta] [6S] ['td] [3f] T [6p] T
+2 [yG] [6f] [yd]S3 [rd] [3a] [rO]p6 T 3 T
+6 [Tp] a [TS] [9d] y [9S] y [0a] r [0O] r
+[6p] T 3 T 6 T 6 T [*f] [TG]f* T [8f] [tG]f8 t
+[7f] [yd] [7S] [yd]f0 r 0 [9r] [*f] [TG]f! T [1f] [tG]f3 t
+[7f] [yG] [3H] [yG]f0 r [7f] [rS] [9p] e [2a] e [@S] r [QG] r 
+[3f] r - r 3 r - r [3f][3f][3f][3f][3f] -- u
+[6p] T 3 [Tu] [%p] T 3 [Tu] [$p] [Ta] [6S] ['td] [3f] T [6p] T
+2 [yG] [6f] [yd]S3 [rd] [3a] [rO]p6 T 3 T
+6 [Tp] a [TS] [9d] y [9S] y [0a] r $ [ru]
+[6p] T 3 [Tu] [%p] T 3 [Tu] [$p] [Ta] [6S] ['td] [3f] T [6p] T
+2 [yG] [6f] [yd]S3 [rd] [3a] [rO]p6 T 3 T
+6 [Tp] a [TS] [9d] y [9S] y [0a] r [0O] r
+[2d] - S - [3a] - [3O] - [6p] T apT p [ya]p-y
+T apT p [ya]p-y - T apT p [ya]p-y
+T apT p [ya]p-y - T - T - y - y[0eT]

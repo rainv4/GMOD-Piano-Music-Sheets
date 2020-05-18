@@ -1,0 +1,48 @@
+[48p] f p f p f p [qf] 
+[60p] f p f p f p [ef] 
+[48p] [qf] [48p] [qf] 
+[48p] [qf] [48p] [qf] 
+[60p] [ef] [60p] [ef] 
+[60p] [ef] [60p] [ef]
+
+[4pj] 8 q e t i t e 
+4 8 q e [tak] i t e 
+[6sl] 0 e t u p u t 
+[6dz] 0 e t u p u t 
+[4fx] 8 q e [tjb] i t e 
+[4hv] 8 q e [tfx] i t e 
+[6dz] 0 e t [usl] p u t 
+[6ak] 0 e t [usl] p u t
+
+4 8 e u q t p f 
+i s j x i p p f 
+4 8 e u q t p f 
+i s j x i p p f 
+6 0 e u e u p f 
+p f j x e u p f 
+6 0 e u e u p f 
+p f j x e u p f
+
+[4pf] 8 q e [tpd] i [tpf] e 
+[5oa] 9 w r [yoa] r [yoa] r 
+[6oa] 0 [ea] [ts] [ud] p [uf] t 
+[6p] 0 [ef] [td] [us] [ta] [ep] [0o] 
+[4pf] 8 q e [td] i [tp] e 
+[5a] 9 w r [yh] r y r [6j] 0 e t [uk] p [ul] t 
+[6z] 0 [el] t [uk] p [uh] t
+
+[4fl] [8fl] [qfk] [efk] [tfl] [ifl] [tfk] [efk] 
+[6fl] [0fl] [efk] [tfk] [ufj] [pfj] [ufk] [tfk] 
+[4fl] [8fl] [qfk] [efk] [tfl] [ifl] [tfk] [efk] 
+[6fl] [0fl] [efk] [tfk] [ufj] [pfj] [ufk] [tfk] 
+[4pf] [8pf] [qpd] [epd] [tpf] [ipf] [tpd] [epd] 
+[6pf] [0pf] [epd] [tpd] [ups] [tps] [upa] [tpa] 
+[4ps] [8ps] [qpa] [epa] [tps] [ips] [tpa] [epa] 
+[5os] [9os] [woa] [roa] [yos] [os] [yoa] [roa] 
+[4pj] 8 q e t i t e 
+4 8 q e [tak] i t e 
+[6sl] 0 e t u p u t 
+[6dz] 0 e t u p u t 
+[dz^] q E y i P i y 
+[ifx] P i y i P i y 
+[fxE]

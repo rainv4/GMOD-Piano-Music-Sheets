@@ -1,0 +1,125 @@
+[8wt] [59w] 
+[60e] [370] 
+[48q] [158] 
+[48q] [59w] 
+[8wtf] [59wd] 
+[60es] [370a] 
+[48qp] [158o] 
+[48qp] [59wa] 
+[8osf] w t [5oad] 9 w 
+[6ups] 0 e [3uoa] 7 0 
+[4tip] 8 q [1tuo] 5 8 
+[4tip] 8 q [5yoa] 9 w 
+[8s] w t [5a] 9 w 
+[6p] 0 e [3o] 7 0 
+[4i] 8 q [1u] 5 8 
+[4i] 8 q [5y] 9 w 
+[8os] w t u [5oa] 9 w r 
+[6up] 0 e t [3uo] 7 0 w 
+[4ti] 8 q e [1tu] 5 8 0 
+[4ti] 8 q e [5ry] 9 w r 
+[8ts] w [tf] u [5h] 9 [wg] r 
+[6f] 0 [es] t [3f] 7 [0d] w 
+[4s] 8 [qp] e [1s] 5 [8f] 0 
+[4g] 8 [qj] e [5h] 9 [wg] r 
+[8sf] w [tf] u [5dh] 9 [wg] r 
+[6sf] 0 [es] t [3af] 7 [0d] w 
+[4ps] 8 [qp] e [1os] 5 [8f] 0 
+[4pg] 8 [qj] e [5ah] 9 [wg] r 
+[8s] [wa] [ts] u [5o] 9 [wa] r 
+[6s] 0 [ef] t [3h] 7 [0h] [wj] 
+[4g] [8f] [qd] [eg] [1f] [5d] [8s] [0a] 
+[4p] [8o] [qi] [es] [5yos] 9 [wa] r 
+[8us] [wa] [ts] u [5yo] 9 [wa] r 
+[6s] 0 [ef] t [3ah] 7 [0h] [wj] 
+[4pg] [8f] [qd] [eg] [1of] [5d] [8s] [0a] 
+[4p] [8o] [qi] [es] [5yos] 9 [wa] r 
+8 w [tf] u [5d] 9 w r 
+6 0 [es] t [3h] 7 0 w 
+[4j] 8 q e [1h] 5 8 0 
+[4j] 8 q e [5k] 9 w r 
+[8l] w [tf] u [5d] 9 w r 
+6 [0s] [ea] [ts] [3h] 7 0 w 
+[4sgj] 8 q e [1sfh] 5 8 0 
+[4sgj] 8 q e [5dhk] 9 w r 
+[8fl] [wk] [tl] [us] [5a] [9h] [wd] [rf] 
+[6s] [0l] [ek] [tj] [3k] [7x] [0v] [wb] 
+[4jc] [8x] [qz] [ec] [1hx] [5z] [8l] [0k] 
+[4gj] [8h] [qg] [ef] [5d] [9g] [wf] [rd] 
+[8s] [wd] [tf] [ug] [5ah] [9d] [wh] [rg] 
+[6sf] [0j] [eh] [tg] [3ah] [7g] [0f] [wd] 
+[4s] [8p] [qj] [ek] [1fl] [5k] [8j] [0h] 
+[4sg] [8f] [qd] [ej] [5sh] [9j] [wah] r 
+[8h] [wf] g [th] [uf] g [5h] o [9p] a [ws] d [rf] g 
+[6f] [0s] d [ef] [tu] i [3o] p [7o] i [0o] u [wi] o 
+[4i] [8p] o [qi] [eu] y [1u] y [5t] y [8u] i [0o] p 
+[4i] [8p] o [qp] [ea] s [5o] p [9a] s [wd] f [rg] h 
+[8fh] [wf] g [th] [uf] g [5dh] o [9p] a [ws] d [rf] g 
+[6sf] [0s] d [ef] [tu] i [3o] p [7o] i [0o] u [wi] o 
+[4i] [8p] o [qi] [eu] y [1u] y [5t] y [8u] i [0o] p 
+[4i] [8p] o [qp] [ea] s [5o] p [9a] s [wd] f [rg] h 
+[8f] [ws] d [tf] [ud] s [5d] a [9s] d [wf] d [rs] a 
+[6s] [0p] a [es] [tu] i [3o] p [7o] i [0o] s [wa] s 
+[4p] [8s] a [qp] [eo] i [1o] i [5u] i [8o] p [0a] s 
+[4p] [8s] a [qs] [ea] p [5a] s [9d] s [wa] s [rp] a 
+[8sf] [ws] d [tf] [ud] s [5ad] a [9s] d [wf] d [rs] a 
+[6ps] [0p] a [es] [tu] i [3uo] p [7o] i [0o] s [wa] s 
+[4ip] [os] a [qp] [eo] i [1uo] i [5u] i [8o] p [0a] s 
+[4ip] [8s] a [qs] [ea] p [5oa] s [9d] s [wa] s [rp] a 
+[8s] [wf] [tg] [uf] [5d] 9 [wf] [rd] 
+[6s] [0u] [et] [tp] [3o] 7 [0i] [wo] 
+[4p] 8 [qa] [ep] [1o] 5 [8i] [0o] 
+[4p] 8 [qo] [ep] [5a] 9 [ws] [rd] 
+[8sf] [wf] [tg] [uf] [5ad] 9 [wf] [rd] 
+[6s] [0u] [et] [tp] [3uo] 7 [0i] [wo] 
+[4ip] 8 [qa] [ep] [1uo] 5 [8i] [0o] 
+[4ip] [8p] [qo] [ep] [5oa] [9a] [ws] [rd] 
+[8s] [ws] d [tf] [us] [5a] [9a] s [wd] [ra] 
+[6p] [0s] d [ef] [ts] [3f] [7f] d [0s] [wa] 
+[4p] [8p] o [qp] [ea] [1s] [5f] d [8s] [0f] 
+[4g] [8s] a [qp] [ep] [5o] [9o] i [wo] [ra] 
+[8sf] [ws] d [tf] [us] [5ad] [9a] s [wd] [ra] 
+[6ps] [0s] d [ef] [ts] [3af] [7f] d [0s] [wa] 
+[4ip] [8p] o [qp] [ea] [1os] [5f] d [8s] [0f] 
+[4pg] [8s] a [qp] [ep] [5oa] [9o] i [wo] [ra] 
+[8s] w t [uf] [5f] [9g] [wf] [rd] 
+[6d] [0s] e [ts] [3s] [7d] [0s] [wP] 
+[4s] [8P] [qp] [eP] [1o] 5 8 [0s] 
+[4s] [8P] [qp] [eP] [5a] 9 w [ra] 
+[8s] w t [usf] [5sf] [9dg] [wsf] [rad] 
+[6ad] [0s] e [ts] [3ps] [7ad] [0ps] [woP] 
+[4ps] [8P] [qp] [eP] [1uo] 5 8 [0s] 
+[4ps] [8P] [qp] [eP] [5yoa] 9 w [ra] 
+[8s] w t u [5pd] 9 w r 
+[6of] 0 e t [3uf] 7 0 w 
+[4ig] 8 q e [1s] 5 8 0 
+[4ig] 8 q e [5oh] 9 w r 
+[8sh] w t u [5oh] 9 w r 
+[6pj] 0 e t [3uf] 7 0 w 
+[4ig] 8 q e [1ts] 5 8 0 
+[4ig] 8 q e [5oh] 9 w [rs] 
+[8f] w [ts] u [5d] 9 [wa] r 
+[6s] 0 [ep] t [3a] 7 [0o] w 
+[4p] 8 [qi] e [1o] 5 [8u] 0 
+[4p] 8 [qi] e [5a] 9 [wo] r 
+[8osf] w [ts] u [5oad] 9 [wa] r 
+[6ups] 0 [ep] t [3uoa] 7 [0o] w 
+[4tip] 8 [qi] e [1tuo] 5 [8u] 0 
+[4tip] 8 [qi] e [5yoa] 9 [wo] r 
+[8s] w [to] u [5a] 9 [wo] r 
+[6p] 0 [eu] t [3o] 7 [0u] w 
+[4i] 8 [qt] e [1u] 5 [8t] 0 
+[4i] 8 [qt] e [5y] 9 [wr] r 
+[8os] w [ts] u [5oa] 9 [wa] r 
+[6up] 0 [ep] t [3uo] 7 [0o] w 
+[4ti] 8 [qi] e [1tu] 5 [8u] 0 
+[4ti] 8 [qi] e [5ry] 9 [wy] r 
+[8s] w [tf] u [5d] 9 [wy] r 
+[6t] 0 [es] t [3a] 7 [0r] w 
+[4e] 8 [qp] e [1o] 5 [8w] 0 
+[4e] 8 [qp] e [5o] 9 w [ra] 
+[8osf] w [thlx] u [5hkz] 9 [woad] r 
+[6ups] 0 [efjl] t [3fhk] 7 [0uoa] w 
+[4tip] 8 [qsgj] e [1sfh] 5 [8tuo] 0 
+[4tip] 8 [qpsg] e [5oad] 9 w [rf] 
+[8wosf] 

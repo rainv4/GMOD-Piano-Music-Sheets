@@ -1,0 +1,12 @@
+q [th] [eg] t 0 [tf] [eg] [th] [qd] t r ['td] [8s] t u t
+q [th] [eg] t 0 [tf] [eg] [th] [qf] t r [th] [8h] t u t
+q [th] [eg] t 0 [ts] [eg] [tj] [qh] t r [th] [8s] t u [tf]
+q [th] [eg] t 0 [ts] [ed] [th] [qg] t r [tg] [8f] t u [th]
+q [th] [ej] t w [uh] [tf] [uh] [rj] o u o y [pg] [df] [ps] -- w 9 6 % [23]
+[10] r w r [18] r E r [15] r e r [13] r t r
+[10] r w r [18] r E r [15] r e r [13] r t r
+[10] [rf] [wd] [rf] [18] [rf] [Eg] [rf] [15] [rf] [ed] [rd] [13] [rf] [th] [rh]
+[10] [rg] [wf] [rg] [18] [rg] [Ef] [rg] [15] [rg] [eh] [rh] [13] [rh] [tj] [rk] 
+[1l] 0 w t [1k] 0 e t [2z] w r y [2v] w t u 
+[3c] e y o [3n] e y i [4b] w t u [4c] e t i p
+[5ti] - u i o - u [4ti]

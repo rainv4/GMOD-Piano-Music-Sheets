@@ -1,0 +1,20 @@
+1 3 5 8 0 w t u o s f h l x v m
+1 @ 5 8 ( w t Y o s D h l Z v m
+1 @ % 8 ( W t Y O s D H l Z V m
+1 4 % 8 q W t i O s g H l c V m
+1 4 ^ 8 q E t i P s g J l c B m
+1 3 6 8 0 e t u p s f j l x b m
+! 3 6 * 0 e T u p S f j L x b
+1 4 6 8 q e t i p s g j l c b m
+4 ^ * q E T i P S g J L c B
+! $ 6 * Q e T I p S G j L C b
+2 4 6 9 q e y i p d g j z c b
+2 $ 6 9 Q e y I p d G j z C b
+2 5 7 9 w r y o a d h k z v n
+2 $ 7 9 Q r y I a d G k z C n
+3 5 7 0 w r u o a f h k x v n
+3 % 7 0 W r u O a f H k x V n
+! $ ^ * Q E T I P S G J L C B
+@ $ ^ ( Q E Y I P D G J Z C B
+! 4 % * q W T i O S g H L c V
+! 3 % * 0 W T u O S f H L x V

@@ -1,0 +1,50 @@
+1   ( 9 ( 9 8   Y y Y y t   D d D d s   Z z Z z 
+8 [w(] 5 [w(] 8 [w(] 5 [w(] 8 [w(] 5 [w(] 8 [w(] 
+
+[5o] { [w(] p a [8s] } [wD(] [5d] D [wd(] [8s]   [wh(] [5H] [wh(] 
+
+[8s] [wD(] [5d] D [wd(] [8s] [w(] [P^] 
+{ q 9 s d [D(] } [whE] [g^] h [wgE] [D(]   [wJE] [l^] [wJE] 
+[D(] [whE] [g^] h [wgE] [D(] [wE] ^ [wE] 
+[qg]   [tHW] [8h] H [tJW] [8l]   [wz(] [5Z]   [wz(] 
+[L*]   [qlW] [J%]   [qHW] [5h]   [79j] [7k]   [79z] 
+[H%]   [8J(] [8l] J [8H%] [4g]   [8h] [H%]   [8l] 
+[5h] d [79h] [7k] h [97k] [9z] k [9qz] [qc] ( Z [9z] 
+
+q { [tW] [w8] W [tWE] [t8] }   [yw(] [5Y]   [yw(] [*T]   [tqW] [%E] [qW] [w5] [e79] [r7] [y79] 
+[%W] [8(E] [t8] E [8%W] [q4] [w8] [%W] [t8] 
+[w5] 9 [w79] [r7] w [r97] [y9] r [y9q] [iq] ( Y [y9] 
+
+[8s] [wD(] [5d] D [wd(] [8s] [wh(] [5H] [wh(] 
+[8s] [wD(] [5d] D [wd(] [8s] [w(] [P^] 
+{ q 9 s d [D(] } [whE] [g^] h [wgE] [D(]   [wJE] [l^] [wJE] 
+[D(] [whE] [g^] h [wgE] [D(] [wE] ^ [wE] 
+
+q { [tW] [w8] W [tWE] [t8] }   [yw(] [5Y]   [yw(] [*T]   [tqW] [%E] [qW] [w5] [e79] [r7] [y79] 
+[%W] [8(E] [t8] E [8%W] [q4] [w8] [%W] [t8] 
+[w5] 9 [w79] [r7] w [r97] [y9] r [y9q] [iq] ( Y [y9] 
+
+[t8] t [t0wou] [wt5] [0wou] [^E]   e [9qyi] [q4E] e [w9qyi] 
+[t8] t t [t0wou] [wt5] [0wou] [r^E]   [qT*] i T i T i T i 
+[t8] t [t0wou] [wt5] [u0w] [ou] [^E] e [9qyi] [q4E] e [w9qyi] 
+[q4] [w5so] 8 [%W] w [q4ip%] [w5] Q [w85so] [%W] [w85so] 
+
+[t8] t [t0wou] [wt5] [0wou] [^E]   e [9qyi] [q4E] e [w9qyi] 
+[t8] t t [t0wou] [wt5] [0wou] [r^E]   [qT*] i T i T i T i 
+[t8] t [t0wou] [wt5] [u0w] [ou] [^E] e [9qyi] [q4E] e [w9qyi] 
+w W w Q ( 8 [7wq] 
+
+[w8s(] D [5d] D d [8s] h [5H] h 
+[w8s(] D [5d] D d [8s] [q9P^] 
+{ s d [wD(E] } h [g^] h g [D(] J [l^] J [wD(E] h [g^] h g [D(] ^ 
+[tqgW]   H [8h] H J [w8] [8l(]   z [5Z]   z [qL*W]   l [J%]   H [975h]   j [7k]   z 
+[8H%(]   J [8l] J H [4tqgW]   h [H%]   l 
+[579wh] d h [7k] h k [9z] k z [q579c] Z z 
+
+[tqW]   W [8w] W E [w8] [8t(]   y [5Y]   y [qT*W]   t [E%]   W [975w]   e [7r]   y 
+[8W%(]   E [8t] E W [4tqW]   w [W%] t [579w] 9 w [7r] w r [9y] r y [q579i] Y y 
+
+[8s] D [5d] D d [8s] h [5H] h 8 5 8 5 
+[8s] D [5d] D d [8s]   [5o] 
+[8s] D [5d] D d [8s] h [5H] h 8 5 8 5 
+[8t] 5 8 5 8

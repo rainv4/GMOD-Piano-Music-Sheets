@@ -1,0 +1,7 @@
+s s s s d f h 8 w [tus] [sw] [tus] [dw] [tuf] [wj] [0h]
+r [uo] [rs] [uo] [rd] [uo] [rk] e [ul] [sp] [hu] [sp] [uf] [sp] [uj]
+q t [sip] [ts] [sip] ['td] [fip] [th] 8 w [tu] [ws] [tus] [wd] [tuf] [wj] [h0]
+r [uo] [rs] [uo] [rd] [uo] [rk] e [ul] [sp] [hu] [sp] [uf] [sp] [uj] 
+q t [gip] [tg] [gip] [tg] [gip] [tg] 8 [wf] [tu] w [tu] [wd] [tu] w 0 r
+[uo] [rd] [guo] [gr] [guo] [gr] 
+e [uf] [sp] u [sp] [ud] [sp] [su] q t [ip] t [ip] t [ip] t [180t]

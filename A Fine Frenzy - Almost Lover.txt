@@ -1,0 +1,65 @@
+[eusf] p u p u p [usf] p 
+[qtps] i t i t i t i 
+[eusf] p u p u p u p 
+[qtips] u y t 
+[epsf] u [ypsf] t [epsf] u [ypsf] t 
+[qyips] t [yips] [eu] t [ips] [uips] y t 
+[6eu] p [sf] p u p [sf] p 
+[4qtp] i t i t u y t 
+[epsf] u [ypsf] t [epsf] u [ypsf] t 
+[qyips] t [yips] [eu] t [ips] [uips] y t 
+[6eu] p [sf] p u p [sf] p 
+[4qtp] i t i t t t 
+[59wry] t y [9r] t y [9r] o [9r] u 
+[1580u] u [50] [50] [50t] 
+[269qy] t y t [6qy] [6q] [6qe] w 
+5 w o y [wr] 
+[580] u u [50] t [50t] w [50e] t 
+[257] u y [27] y [27o] u [27y] t 
+[69q] u [6qu] y t e [6qt] y t [6q] e 
+[68q] t [68] y t [68t] y [68u] y t 
+[580] u u [50] t [50t] w [50e] t 
+[257] u y [27] y [27o] u [27y] t 
+[69q] y y [6qu] t [6qt] y [6qt] e 
+[68q] t [68] y [68t] y [68t] y 
+[580] u y [50t] [50] [50] 
+[18uo] t t u y t 
+[680eup] u [80yup] t e [80up] u [80yup] t 
+[468yps] y u [68ps] t t [68ps] [68ups] u 
+[680up] y t [80yup] t e [80tup] r [80up] e r t 
+[468ips] [68ips] [68ips] u [68yips] t 
+[680eup] u [80yup] t [80eup] o [80uop] o o u 
+[468ips] o o [68ips] o p [68uips] u [68uips] o 
+[680up] u y [80up] [80up] [80ups] a p a 
+[468ips] o [68ips] [68ips] [68ips] t t 
+[59wry] t y [9r] t y [9r] o [9r] u 
+[1580u] u [50] [50] [50t] 
+[269qy] t y t [6qy] [6q] [6qe] w 
+5 w o y [wr] 
+[580] u u [50] t [50t] w [50e] t 
+[257] u y [27] y [27o] u [27y] t 
+[69q] u [6qu] y t e [6qt] y t [6q] e 
+[68q] t [68] y t [68t] y [68u] y t 
+[580] u u [50] t [50t] w [50e] t 
+[257] u y [27] y [27o] u [27y] t 
+[69q] y y [6qu] t [6qt] y [6qt] e 
+[68q] t [68] y [68t] y [68t] y 
+[80w] u y [80wt] [80w] [80w] [79q] 
+[680] u [680p] p [680p] o [680p] p 
+[579o] u [579o] o [579o] u u [579] u 
+[468p] p [468p] p [468p] o [468p] o p 
+[357o] [357o] o [357o] u [357u] u 
+[680] [680p] p [680p] o [680p] p 
+[579o] u [579o] o [579o] o s 
+[468t] [468] t u [468y] t e [468] u 
+[246y] t [246y] y [246y] u y e u 
+[5o] u i u y u 
+[18] u u t t w e t 
+5 u y y o u y t 
+[29] u u y t e t e t y 
+[4q] t t t t o p o 
+[1358] u u [135] y t [135t] w [135e] t 
+[25] u y 2 y [2o] p [2p] o 
+[2469] y y [246u] y t [246t] y [246t] e 
+[4q] t y t y t y 
+[18u] y t y t t 

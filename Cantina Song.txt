@@ -1,0 +1,12 @@
+p d p d p {dppOppOpO} {IoIi} {yy}
+p d p d p {dppOp} o o {oIo} s P p o
+p d p d p {dppOp} s s p o i
+{yy} y i p s D d {Op} i
+p i p  p i p  p i {Op} i {yy}
+p i p  p i p  p i {Op} o t
+p i p  p i p  p i {Op} q {yy}
+{Eyi}  {ryi} {Op} {yy} {yiPdOp} i
+p i p  p i p  p i {Op} i {yy}
+p i p  p i p  p i {Op} o t
+p i p  p i p  p i {Op} q {yy}
+{Eyi}  {ryi} {Op} {yy} {yiPdOp} i [pg]
